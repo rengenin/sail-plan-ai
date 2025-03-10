@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "sail-plan-ai"
+version = "0.1.0"
+description = ""
+authors = ["Justin Gagne <rengenin@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain-core = "^0.3.41"
+isort = "^6.0.1"
+black = "^25.1.0"
+flake8 = "^7.1.2"
+langchain-openai = "^0.3.8"
+dotenv = "^0.9.9"
+langgraph = "^0.3.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
