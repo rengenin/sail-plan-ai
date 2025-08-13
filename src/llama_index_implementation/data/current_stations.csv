@@ -1,0 +1,455 @@
+name,id,bin#,lat,lon,predictions
+"Sand Island Tower, 1nm SE of (midchannel) (Depth 15ft)",PCT1106,1,46.2528,123.9908,Subordinate
+"Sand Island Tower, 0.9nm SE of (north channel) (Depth 15ft)",PCT1111,1,46.2578,123.9945,Subordinate
+"Baker Bay entrance, E of Sand Island Tower (Depth 23ft)",PCT1116,1,46.262,123.998,Subordinate
+"Clatsop Spit, NNE of (Depth 15ft)",PCT1121,1,46.2462,123.9942,Subordinate
+"Sand Island, SSE of (Depth 12ft)",PCT1126,1,46.2555,123.968,Subordinate
+Youngs Bay Bridge (Depth 9ft),PCT1146,1,46.1778,123.8683,Subordinate
+"Hammond, northeast of ship channel (Depth 15ft)",PCT1151,1,46.2112,123.9345,Subordinate
+"McGowan, SSW of (Depth 14ft)",PCT1156,1,46.2395,123.9153,Subordinate
+"Point Ellice, east of (Depth 17ft)",PCT1161,1,46.2417,123.8483,Subordinate
+"Point Adams, NNE OF (Depth 14ft)",PCT1166,1,46.2278,123.9675,Subordinate
+"Chinook Point, WSW of (Depth 14ft)",PCT1171,1,46.2422,123.9642,Subordinate
+"Tongue Point, northwest of (Depth 15ft)",PCT1176,1,46.2192,123.7667,Subordinate
+Woody Island Channel (Depth 15ft),PCT1186,1,46.2395,123.6733,Subordinate
+Woody Island Channel (off Seal Island) (Depth 12ft),PCT1191,1,46.2175,123.6292,Subordinate
+"Quinn Island, Prairie Channel (Depth 8ft)",PCT1201,1,46.2372,123.5033,Subordinate
+Clifton Channel (Depth 10ft),PCT1206,1,46.2178,123.4653,Subordinate
+"Hunting Island, south of (Depth 20ft)",PCT1216,1,46.2072,123.4042,Subordinate
+"Cathlamet Channel, SE of Nassa Point (Depth 19ft)",PCT1231,1,46.1562,123.315,Subordinate
+"Walker Island, south of (Depth 12ft)",PCT1251,1,46.1412,123.0458,Subordinate
+"South Bend, Willapa River",PCT1271,1,46.6647,123.8013,Subordinate
+"Entrance, 0.2 mile south of north jetty",PCT1276,1,46.9263,124.1613,Subordinate
+"Entrance, Point Chehalis Range",PCT1281,1,46.9083,124.1555,Subordinate
+"Entrance, 0.6 mile WNW of Westport",PCT1286,1,46.9147,124.125,Subordinate
+Grays Harbor Entrance,PCT1291,1,46.9225,124.133,Harmonic
+"Entrance, 1.1 miles NW of Westport",PCT1296,1,46.9167,124.1333,Subordinate
+"Channel, 1.5 miles north of Westport",PCT1301,1,46.9333,124.1,Subordinate
+"Channel, 2.1 miles NNE of Westport",PCT1306,1,46.9333,124.0833,Subordinate
+"Westport, channel 0.4 mile NE of",PCT1316,1,46.9142,124.1083,Subordinate
+Quillayute River entrance,PCT1321,1,47.9167,124.6333,Subordinate
+Strait of Juan de Fuca Entrance (Depth 102ft),PUG1642,49,48.45,124.5838,Harmonic
+"Pillar Point, 6 mi. NNE of (Depth 41ft)",PUG1641,75,48.3,124.0374,Harmonic
+"Pillar Point, 6 mi. NNE of (Depth 74ft)",PUG1641,70,48.3,124.0374,Harmonic
+"Pillar Point, 6 mi. NNE of (Depth 297ft)",PUG1641,36,48.3,124.0374,Harmonic
+"Angeles Pt., 2 mi. NNE of (Depth 12ft)",PUG1639,16,48.177,123.5269,Harmonic
+"Angeles Pt., 2 mi. NNE of (Depth 25ft)",PUG1639,12,48.177,123.5269,Harmonic
+"Angeles Pt., 2 mi. NNE of (Depth 61ft)",PUG1639,1,48.177,123.5269,Harmonic
+"Race Rocks, 4.5 mi. S of (Depth 60ft)",PUG1640,18,48.2232,123.5323,Harmonic
+"Race Rocks, 4.5 mi. S of (Depth 237ft)",PUG1640,9,48.2232,123.5323,Harmonic
+Port Angeles,PCT1371,1,48.1333,123.4167,Weak and Variable
+"Ediz Hook Light, 1.4 miles southeast of",PCT1376,1,48.1167,123.4,Weak and Variable
+"Ediz Hook Light, 1.2 miles N of (Depth 36ft)",PUG1638,22,48.1667,123.4158,Harmonic
+"Ediz Hook Light, 1.2 miles N of (Depth 85ft)",PUG1638,17,48.1667,123.4158,Harmonic
+"Ediz Hook Light, 1.2 miles N of (Depth 184ft)",PUG1638,7,48.1667,123.4158,Harmonic
+"Ediz Hook Light, 5.3 mi. ENE of (Depth 22ft)",PUG1637,29,48.1823,123.2815,Harmonic
+"Ediz Hook Light, 5.3 mi. ENE of (Depth 28ft)",PUG1637,28,48.1823,123.2815,Harmonic
+"Ediz Hook Light, 5.3 mi. ENE of (Depth 179ft)",PUG1637,5,48.1823,123.2815,Harmonic
+"Trial Island, 5.2 miles SSW of (Depth 15ft)",PCT1391,1,48.3167,123.3667,Subordinate
+"New Dungeness Light, 2.8 mi. NNW of (Depth 52ft)",PUG1635,58,48.2335,123.1334,Harmonic
+"New Dungeness Light, 2.8 mi. NNW of (Depth 71ft)",PUG1635,55,48.2335,123.1334,Harmonic
+"New Dungeness Light, 2.8 mi. NNW of (Depth 360ft)",PUG1635,11,48.2335,123.1334,Harmonic
+"New Dungeness Light, 6 miles NNE of (Depth 15ft)",PCT1401,1,48.2667,123.05,Subordinate
+"Discovery Island, 7.6 mi. SSE of (Depth 28ft)",PUG1636,34,48.3002,123.1672,Harmonic
+"Discovery Island, 7.6 mi. SSE of (Depth 120ft)",PUG1636,20,48.3002,123.1672,Harmonic
+"Discovery Island, 7.6 mi. SSE of (Depth 244ft)",PUG1636,1,48.3002,123.1672,Harmonic
+"Discovery Island, 3 miles SSE of (Depth 15ft)",PCT1411,1,48.3833,123.2,Subordinate
+"Violet Point, 3.7 mi. NW of Protection Island (Depth 17ft)",PUG1631,33,48.1614,122.9681,Harmonic
+"Violet Point, 3.7 mi. NW of Protection Island (Depth 40ft)",PUG1631,26,48.1614,122.9681,Harmonic
+"Violet Point, 3.7 mi. NW of Protection Island (Depth 112ft)",PUG1631,4,48.1614,122.9681,Harmonic
+"Kanem Point, 1.5 mi. SW of Protection Island (Depth 22ft)",PUG1630,53,48.1076,122.9737,Harmonic
+"Kanem Point, 1.5 mi. SW of Protection Island (Depth 55ft)",PUG1630,43,48.1076,122.9737,Harmonic
+"Kanem Point, 1.5 mi. SW of Protection Island (Depth 97ft)",PUG1630,30,48.1076,122.9737,Harmonic
+"Smith Island, 5.5 mi. WNW of (Depth 43ft)",PUG1632,41,48.3246,122.9647,Harmonic
+"Smith Island, 5.5 mi. WNW of (Depth 141ft)",PUG1632,26,48.3246,122.9647,Harmonic
+"Smith Island, 5.5 mi. WNW of (Depth 220ft)",PUG1632,14,48.3246,122.9647,Harmonic
+"Smith Island, 1.4 miles SSW of",PCT1451,1,48.3,122.85,Subordinate
+"Smith Island, 3.4 mi. ESE of (Depth 20ft)",PUG1634,36,48.2964,122.7763,Harmonic
+"Smith Island, 3.4 mi. ESE of (Depth 56ft)",PUG1634,25,48.2964,122.7763,Harmonic
+"Smith Island, 3.4 mi. ESE of (Depth 134ft)",PUG1634,1,48.2964,122.7763,Harmonic
+"Point Partridge, 3.7 miles west of",PCT1466,1,48.2333,122.8667,Subordinate
+"Point Wilson, 0.6 mi. NE of (Depth 17ft)",PUG1623,45,48.1501,122.7454,Harmonic
+"Point Wilson, 0.6 mi. NE of (Depth 56ft)",PUG1623,33,48.1501,122.7454,Harmonic
+"Point Wilson, 0.6 mi. NE of (Depth 118ft)",PUG1623,14,48.1501,122.7454,Harmonic
+"Point Wilson, 1.6 mi. NE of (Depth 21ft)",PUG1624,47,48.1569,122.726,Harmonic
+"Point Wilson, 1.6 mi. NE of (Depth 87ft)",PUG1624,27,48.1569,122.726,Harmonic
+"Point Wilson, 1.6 mi. NE of (Depth 149ft)",PUG1624,8,48.1569,122.726,Harmonic
+"Point Wilson, 2.7 mi. NE of (Depth 20ft)",PUG1625,45,48.1671,122.7074,Harmonic
+"Point Wilson, 2.7 mi. NE of (Depth 56ft)",PUG1625,34,48.1671,122.7074,Harmonic
+"Point Wilson, 2.7 mi. NE of (Depth 118ft)",PUG1625,15,48.1671,122.7074,Harmonic
+"Point Wilson, 0.8 mile east of",PCT1496,1,48.15,122.7333,Subordinate
+"Port Townsend, 0.5 mile S of Pt. Hudson",PCT1501,1,48.1167,122.75,Weak and Variable
+"Marrowstone Point, 1.1 miles northwest of",PCT1511,1,48.1167,122.7,Subordinate
+"Marrowstone Point, 0.8 mi. NE of (Depth 29ft)",PUG1619,46,48.1063,122.6725,Harmonic
+"Marrowstone Point, 0.8 mi. NE of (Depth 75ft)",PUG1619,32,48.1063,122.6725,Harmonic
+"Marrowstone Point, 0.8 mi. NE of (Depth 151ft)",PUG1619,9,48.1063,122.6725,Harmonic
+"Marrowstone Point, 1.65 mi. NE of (Depth 26ft)",PUG1620,28,48.1193,122.6623,Harmonic
+"Marrowstone Point, 1.65 mi. NE of (Depth 79ft)",PUG1620,20,48.1193,122.6623,Harmonic
+"Marrowstone Point, 1.65 mi. NE of (Depth 144ft)",PUG1620,10,48.1193,122.6623,Harmonic
+"Nodule Point, 0.5 mi. SE of (Depth 9ft)",PUG1615,18,48.0287,122.6609,Harmonic
+"Nodule Point, 0.5 mi. SE of (Depth 25ft)",PUG1615,13,48.0287,122.6609,Harmonic
+"Nodule Point, 0.5 mi. SE of (Depth 65ft)",PUG1615,1,48.0287,122.6609,Harmonic
+Admiralty Inlet (off Bush Point) (Depth 29ft),PUG1616,31,48.0335,122.6376,Harmonic
+Admiralty Inlet (off Bush Point) (Depth 68ft),PUG1616,25,48.0335,122.6376,Harmonic
+Admiralty Inlet (off Bush Point) (Depth 193ft),PUG1616,6,48.0335,122.6376,Harmonic
+"Bush Point Light, 0.5 mile NW of (Depth 44ft)",PUG1617,39,48.0308,122.6133,Harmonic
+"Bush Point Light, 0.5 mile NW of (Depth 77ft)",PUG1617,34,48.0308,122.6133,Harmonic
+"Bush Point Light, 0.5 mile NW of (Depth 208ft)",PUG1617,14,48.0308,122.6133,Harmonic
+"Olele Point, 1.8 mi. ENE of (Depth 20ft)",PUG1611,49,47.9788,122.6455,Harmonic
+"Olele Point, 1.8 mi. ENE of (Depth 66ft)",PUG1611,35,47.9788,122.6455,Harmonic
+"Olele Point, 1.8 mi. ENE of (Depth 148ft)",PUG1611,10,47.9788,122.6455,Harmonic
+Port Townsend Canal (Depth 5ft),PUG1614,7,48.0325,122.7326,Harmonic
+Port Townsend Canal (Depth 15ft),PUG1614,1,48.0325,122.7326,Harmonic
+"Hood Canal Entrance, Foulweather Bluff (Depth 32ft)",PUG1608,35,47.9284,122.6388,Harmonic
+"Hood Canal Entrance, Foulweather Bluff (Depth 78ft)",PUG1608,28,47.9284,122.6388,Harmonic
+"Hood Canal Entrance, Foulweather Bluff (Depth 255ft)",PUG1608,1,47.9284,122.6388,Harmonic
+"Port Gamble Bay, 0.5 mile N of entrance",PCT1571,1,47.8645,122.5772,Weak and Variable
+Port Gamble Bay Entrance (Depth 10ft),PUG1604,8,47.8547,122.5782,Harmonic
+Port Gamble Bay Entrance (Depth 32ft),PUG1604,1,47.8547,122.5782,Harmonic
+Hood Canal Bridge (Depth 22ft),PUG1603,20,47.8547,122.6294,Harmonic
+Hood Canal Bridge (Depth 111ft),PUG1603,11,47.8547,122.6294,Harmonic
+Hood Canal Bridge (Depth 209ft),PUG1603,1,47.8547,122.6294,Harmonic
+South Point (Depth 24ft),PUG1602,48,47.8217,122.6767,Harmonic
+South Point (Depth 43ft),PUG1602,42,47.8217,122.6767,Harmonic
+South Point (Depth 178ft),PUG1602,1,47.8217,122.6767,Harmonic
+"Bangor, Hood Canal LB B (Depth 14ft)",ks0201,2,47.7578,122.7306,Harmonic
+"Bangor, Hood Canal LB B (Depth 28ft)",ks0201,6,47.7578,122.7306,Harmonic
+"Bangor, Hood Canal LB B (Depth 41ft)",ks0201,10,47.7578,122.7306,Harmonic
+Hazel Point (Depth 23ft),PUG1601,21,47.6912,122.7628,Harmonic
+Hazel Point (Depth 88ft),PUG1601,11,47.6912,122.7628,Harmonic
+Hazel Point (Depth 154ft),PUG1601,1,47.6912,122.7628,Harmonic
+Chinom Point,PCT1596,1,47.5333,123.0333,Weak and Variable
+Useless Bay,PCT1606,1,47.9783,122.4953,Weak and Variable
+"Foulweather Bluff, 1.9 mi. NE of (Depth 20ft)",PUG1610,33,47.9543,122.5786,Harmonic
+"Foulweather Bluff, 1.9 mi. NE of (Depth 27ft)",PUG1610,32,47.9543,122.5786,Harmonic
+"Foulweather Bluff, 1.9 mi. NE of (Depth 125ft)",PUG1610,17,47.9543,122.5786,Harmonic
+"Point No Point, 1.2 mi. E of (Depth 69ft)",PUG1606,39,47.9125,122.502,Harmonic
+"Point No Point, 1.2 mi. E of (Depth 108ft)",PUG1606,36,47.9125,122.502,Harmonic
+"Point No Point, 1.2 mi. E of (Depth 567ft)",PUG1606,1,47.9125,122.502,Harmonic
+"Point No Point, 2.1 mi. E of (Depth 31ft)",PUG1607,33,47.9189,122.4841,Harmonic
+"Point No Point, 2.1 mi. E of (Depth 57ft)",PUG1607,29,47.9189,122.4841,Harmonic
+"Point No Point, 2.1 mi. E of (Depth 240ft)",PUG1607,1,47.9189,122.4841,Harmonic
+"Edmonds, 2.5 miles West of (Depth 67ft)",PUG1503,34,47.8071,122.4441,Harmonic
+"Edmonds, 2.5 miles West of (Depth 133ft)",PUG1503,29,47.8071,122.4441,Harmonic
+"Edmonds, 2.5 miles West of (Depth 317ft)",PUG1503,15,47.8071,122.4441,Harmonic
+"President Point, 1.5 miles east of (Depth 71ft)",PUG1511,38,47.7671,122.4319,Harmonic
+"President Point, 1.5 miles east of (Depth 176ft)",PUG1511,30,47.7671,122.4319,Harmonic
+"President Point, 1.5 miles east of (Depth 308ft)",PUG1511,20,47.7671,122.4319,Harmonic
+"Point Jefferson, East of (Depth 19ft)",PUG1509,9,47.7445,122.468,Harmonic
+"Point Jefferson, East of (Depth 45ft)",PUG1509,5,47.7445,122.468,Harmonic
+"Point Jefferson, East of (Depth 71ft)",PUG1509,1,47.7445,122.468,Harmonic
+"Agate Passage, north end",PCT1636,1,47.722,122.555,Subordinate
+"Agate Passage, south end (Depth 9ft)",PUG1501,6,47.711,122.5671,Harmonic
+"Agate Passage, south end (Depth 25ft)",PUG1501,1,47.711,122.5671,Harmonic
+Port Orchard,PCT1646,1,47.6375,122.5847,Weak and Variable
+"Port Orchard, off Keyport",PCT1651,1,47.7003,122.6083,Weak and Variable
+"Liberty Bay (entrance), Port Orchard (Depth 7ft)",PUG1508,10,47.7068,122.6282,Harmonic
+"Liberty Bay (entrance), Port Orchard (Depth 24ft)",PUG1508,5,47.7068,122.6282,Harmonic
+"Liberty Bay (entrance), Port Orchard (Depth 37ft)",PUG1508,1,47.7068,122.6282,Harmonic
+Shilshole Bay,PCT1661,1,47.6833,122.4167,Weak and Variable
+"West Point, West of (Depth 16ft)",PUG1515,15,47.6621,122.4417,Harmonic
+"West Point, West of (Depth 49ft)",PUG1515,10,47.6621,122.4417,Harmonic
+"West Point, West of (Depth 108ft)",PUG1515,1,47.6621,122.4417,Harmonic
+"West Point, 1.2 miles west of",PCT1671,1,47.6595,122.4653,Weak and Variable
+Entrance to Ballard Locks (Depth 9ft),PUG1504,7,47.671,122.407,Weak and Variable
+Elliott Bay entrance,PCT1676,1,47.612,122.4072,Weak and Variable
+"Alki Point, West of (Depth 38ft)",PUG1516,17,47.5761,122.4278,Harmonic
+"Alki Point, West of (Depth 103ft)",PUG1516,12,47.5761,122.4278,Harmonic
+"Alki Point, West of (Depth 195ft)",PUG1516,5,47.5761,122.4278,Harmonic
+"Alki Point, 1 mile West of (Depth 76ft)",PUG1502,44,47.5837,122.4518,Harmonic
+"Alki Point, 1 mile West of (Depth 194ft)",PUG1502,35,47.5837,122.4518,Harmonic
+"Alki Point, 1 mile West of (Depth 483ft)",PUG1502,13,47.5837,122.4518,Harmonic
+Harbor Island West (Depth 9ft),PUG1507,13,47.5831,122.3602,Harmonic
+Harbor Island West (Depth 22ft),PUG1507,9,47.5831,122.3602,Harmonic
+Harbor Island East (Depth 6ft),PUG1506,12,47.5885,122.344,Weak and Variable
+Restoration Point (Depth 22ft),PUG1512,19,47.5789,122.4687,Harmonic
+Restoration Point (Depth 81ft),PUG1512,10,47.5789,122.4687,Harmonic
+Restoration Point (Depth 140ft),PUG1512,1,47.5789,122.4687,Harmonic
+"Rich Passage, East end (Depth 11ft)",PUG1513,10,47.57,122.5298,Harmonic
+"Rich Passage, East end (Depth 38ft)",PUG1513,6,47.57,122.5298,Harmonic
+"Rich Passage, East end (Depth 70ft)",PUG1513,1,47.57,122.5298,Harmonic
+Off Pleasant Beach,PCT1701,1,47.5833,122.5333,Subordinate
+"Rich Passage, LB 8 (Depth 11ft)",ks0101,1,47.5933,122.5426,Harmonic
+"Rich Passage, LB 8 (Depth 14ft)",ks0101,2,47.5933,122.5426,Harmonic
+"Rich Passage, LB 8 (Depth 31ft)",ks0101,7,47.5933,122.5426,Harmonic
+"Rich Passage, West end (Depth 12ft)",PUG1514,8,47.5899,122.5623,Harmonic
+"Rich Passage, West end (Depth 31ft)",PUG1514,5,47.5899,122.5623,Harmonic
+"Rich Passage, West end (Depth 57ft)",PUG1514,1,47.5899,122.5623,Harmonic
+Entrance to Eagle Harbor (Depth 9ft),PUG1505,8,47.6196,122.4953,Harmonic
+Entrance to Eagle Harbor (Depth 32ft),PUG1505,1,47.6196,122.4953,Weak and Variable
+"Port Orchard, southwest of Waterman",PCT1711,1,47.5667,122.6,Weak and Variable
+"Port Washington Narrows, Warren Ave. Bridge (Depth 4ft)",PUG1510,6,47.5796,122.6307,Harmonic
+"Port Washington Narrows, Warren Ave. Bridge (Depth 21ft)",PUG1510,1,47.5796,122.6307,Harmonic
+"Blake Island, S of (Depth 44ft)",PUG1517,21,47.5203,122.4879,Harmonic
+"Blake Island, S of (Depth 93ft)",PUG1517,16,47.5203,122.4879,Harmonic
+"Blake Island, S of (Depth 172ft)",PUG1517,8,47.5203,122.4879,Harmonic
+"Dolphin Point, 1.3 miles East of (Depth 48ft)",PUG1520,35,47.5016,122.4236,Harmonic
+"Dolphin Point, 1.3 miles East of (Depth 139ft)",PUG1520,28,47.5016,122.4236,Harmonic
+"Anderson Point, East of, Colvos Passage (Depth 35ft)",PUG1518,19,47.4394,122.5258,Harmonic
+"Anderson Point, East of, Colvos Passage (Depth 62ft)",PUG1518,17,47.4394,122.5258,Harmonic
+"Anderson Point, East of, Colvos Passage (Depth 154ft)",PUG1518,10,47.4394,122.5258,Harmonic
+"Point Richmond, East of, Colvos Passage (Depth 44ft)",PUG1519,18,47.3766,122.5287,Harmonic
+"Point Richmond, East of, Colvos Passage (Depth 110ft)",PUG1519,13,47.3766,122.5287,Harmonic
+"Point Richmond, East of, Colvos Passage (Depth 241ft)",PUG1519,3,47.3766,122.5287,Harmonic
+"Browns Point, 1.6 miles North of (Depth 28ft)",PUG1521,34,47.3287,122.454,Harmonic
+"Browns Point, 1.6 miles North of (Depth 159ft)",PUG1521,24,47.3287,122.454,Harmonic
+"Browns Point, 1.6 miles North of (Depth 290ft)",PUG1521,14,47.3287,122.454,Harmonic
+Dalco Passage (Depth 128ft),PUG1522,12,47.3251,122.5247,Harmonic
+Dalco Passage (Depth 187ft),PUG1522,3,47.3251,122.5247,Harmonic
+Gig Harbor Entrance (Depth 11ft),PUG1523,14,47.3242,122.5719,Harmonic
+Gig Harbor Entrance (Depth 31ft),PUG1523,8,47.3242,122.5719,Harmonic
+Gig Harbor Entrance (Depth 54ft),PUG1523,1,47.3242,122.5719,Harmonic
+"The Narrows, North end - midstream (Depth 40ft)",PUG1524,16,47.306,122.55,Harmonic
+"The Narrows, North end - midstream (Depth 87ft)",PUG1524,9,47.306,122.55,Harmonic
+"The Narrows, North end - midstream (Depth 139ft)",PUG1524,1,47.306,122.55,Harmonic
+"The Narrows, North End (west side) (Depth 42ft)",PUG1526,28,47.304,122.5567,Harmonic
+"The Narrows, North End (west side) (Depth 95ft)",PUG1526,20,47.304,122.5567,Harmonic
+"The Narrows, North End (west side) (Depth 193ft)",PUG1526,5,47.304,122.5567,Harmonic
+"The Narrows, 0.3 miles North of Bridge (Depth 23ft)",PUG1527,19,47.2743,122.5453,Harmonic
+"The Narrows, 0.3 miles North of Bridge (Depth 69ft)",PUG1527,12,47.2743,122.5453,Harmonic
+"The Narrows, 0.3 miles North of Bridge (Depth 141ft)",PUG1527,1,47.2743,122.5453,Harmonic
+"The Narrows, South end (midstream) (Depth 26ft)",PUG1528,17,47.2613,122.5583,Harmonic
+"The Narrows, South end (midstream) (Depth 52ft)",PUG1528,13,47.2613,122.5583,Harmonic
+"The Narrows, South end (midstream) (Depth 131ft)",PUG1528,1,47.2613,122.5583,Harmonic
+"Hale Passage, East end (Depth 11ft)",PUG1529,11,47.2479,122.5956,Harmonic
+"Hale Passage, East end (Depth 44ft)",PUG1529,6,47.2479,122.5956,Harmonic
+"Hale Passage, East end (Depth 77ft)",PUG1529,1,47.2479,122.5956,Harmonic
+"Hale Passage, West end (Depth 14ft)",PUG1530,18,47.2814,122.6631,Harmonic
+"Hale Passage, West end (Depth 40ft)",PUG1530,10,47.2814,122.6631,Harmonic
+"Hale Passage, West end (Depth 70ft)",PUG1530,1,47.2814,122.6631,Harmonic
+"Gibson Point, 0.8 miles East of (Depth 31ft)",PUG1531,18,47.2191,122.5887,Harmonic
+"Gibson Point, 0.8 miles East of (Depth 81ft)",PUG1531,13,47.2191,122.5887,Harmonic
+"Gibson Point, 0.8 miles East of (Depth 149ft)",PUG1531,6,47.2191,122.5887,Harmonic
+"Steilacoom, 0.8 miles North of (Depth 45ft)",PUG1532,16,47.1824,122.6056,Harmonic
+"Steilacoom, 0.8 miles North of (Depth 85ft)",PUG1532,13,47.1824,122.6056,Harmonic
+"Steilacoom, 0.8 miles North of (Depth 177ft)",PUG1532,6,47.1824,122.6056,Harmonic
+"Ketron Island, West of (Depth 38ft)",PUG1533,18,47.1486,122.6594,Harmonic
+"Ketron Island, West of (Depth 90ft)",PUG1533,14,47.1486,122.6594,Harmonic
+"Ketron Island, West of (Depth 143ft)",PUG1533,10,47.1486,122.6594,Harmonic
+"Nisqually Reach, 0.5 miles South of Lyle Point (Depth 29ft)",PUG1534,16,47.1169,122.6988,Harmonic
+"Nisqually Reach, 0.5 miles South of Lyle Point (Depth 68ft)",PUG1534,12,47.1169,122.6988,Harmonic
+"Nisqually Reach, 0.5 miles South of Lyle Point (Depth 177ft)",PUG1534,1,47.1169,122.6988,Harmonic
+"Balch Passage, NE of Eagle Island (Depth 11ft)",PUG1535,16,47.1906,122.6916,Harmonic
+"Balch Passage, NE of Eagle Island (Depth 30ft)",PUG1535,10,47.1906,122.6916,Harmonic
+"Balch Passage, NE of Eagle Island (Depth 60ft)",PUG1535,1,47.1906,122.6916,Harmonic
+"Pitt Passage, NE of Pitt Island (Depth 7ft)",PUG1536,6,47.2238,122.7114,Harmonic
+"Pitt Passage, NE of Pitt Island (Depth 23ft)",PUG1536,1,47.2238,122.7114,Harmonic
+Drayton Passage (Depth 19ft),PUG1537,20,47.1726,122.7415,Harmonic
+Drayton Passage (Depth 52ft),PUG1537,15,47.1726,122.7415,Harmonic
+Drayton Passage (Depth 118ft),PUG1537,5,47.1726,122.7415,Harmonic
+"Devils Head, West of (Depth 24ft)",PUG1538,22,47.1607,122.7894,Harmonic
+"Devils Head, West of (Depth 83ft)",PUG1538,16,47.1607,122.7894,Harmonic
+"Devils Head, West of (Depth 191ft)",PUG1538,5,47.1607,122.7894,Harmonic
+Dana Passage (Depth 16ft),PUG1539,12,47.1631,122.8681,Harmonic
+Dana Passage (Depth 43ft),PUG1539,8,47.1631,122.8681,Harmonic
+Dana Passage (Depth 88ft),PUG1539,1,47.1631,122.8681,Harmonic
+Budd Inlet Entrance (Depth 12ft),PUG1540,10,47.1402,122.9214,Harmonic
+Budd Inlet Entrance (Depth 32ft),PUG1540,7,47.1402,122.9214,Harmonic
+Budd Inlet Entrance (Depth 71ft),PUG1540,1,47.1402,122.9214,Harmonic
+Eld Inlet entrance (Depth 15ft),PCT1861,1,47.1463,122.9333,Subordinate
+"Peale Passage, South end (Depth 9ft)",PUG1541,9,47.175,122.887,Harmonic
+"Peale Passage, South end (Depth 22ft)",PUG1541,5,47.175,122.887,Harmonic
+"Peale Passage, South end (Depth 35ft)",PUG1541,1,47.175,122.887,Harmonic
+"Peale Passage, North end (Depth 4ft)",PUG1542,5,47.2175,122.9146,Harmonic
+"Peale Passage, North end (Depth 17ft)",PUG1542,1,47.2175,122.9146,Harmonic
+"Squaxin Passage, North of Hunter Point (Depth 5ft)",PUG1543,9,47.1763,122.919,Harmonic
+"Squaxin Passage, North of Hunter Point (Depth 18ft)",PUG1543,5,47.1763,122.919,Harmonic
+"Squaxin Passage, North of Hunter Point (Depth 32ft)",PUG1543,1,47.1763,122.919,Harmonic
+Totten Inlet Entrance (Depth 14ft),PUG1544,11,47.1882,122.9454,Harmonic
+Totten Inlet Entrance (Depth 41ft),PUG1544,7,47.1882,122.9454,Harmonic
+Totten Inlet Entrance (Depth 67ft),PUG1544,3,47.1882,122.9454,Harmonic
+"Libby Point, Hammersley Inlet (Depth 5ft)",PUG1545,10,47.1989,122.989,Harmonic
+"Libby Point, Hammersley Inlet (Depth 19ft)",PUG1545,1,47.1989,122.989,Harmonic
+"Hammersley Inlet, west of Skookum Point (Depth 15ft)",PCT1896,1,47.207,123.0395,Subordinate
+"Pickering Passage, West of Squaxin Island (Depth 9ft)",PUG1546,14,47.2193,122.9345,Harmonic
+"Pickering Passage, West of Squaxin Island (Depth 29ft)",PUG1546,8,47.2193,122.9345,Harmonic
+"Pickering Passage, West of Squaxin Island (Depth 52ft)",PUG1546,1,47.2193,122.9345,Harmonic
+"Pickering Passage, off Graham Point (Depth 10ft)",PUG1547,16,47.2473,122.9259,Harmonic
+"Pickering Passage, off Graham Point (Depth 30ft)",PUG1547,10,47.2473,122.9259,Harmonic
+"Pickering Passage, off Graham Point (Depth 59ft)",PUG1547,1,47.2473,122.9259,Harmonic
+"Pickering Passage, North end (Depth 19ft)",PUG1548,10,47.3057,122.8509,Harmonic
+"Pickering Passage, North end (Depth 45ft)",PUG1548,6,47.3057,122.8509,Harmonic
+"Pickering Passage, North end (Depth 78ft)",PUG1548,1,47.3057,122.8509,Harmonic
+"Case Inlet, 1 mile SE of McMicken Island",PCT1916,1,47.2383,122.8437,Weak and Variable
+Possession Sound Entrance (Depth 59ft),PUG1605,40,47.8993,122.3601,Harmonic
+Possession Sound Entrance (Depth 190ft),PUG1605,30,47.8993,122.3601,Harmonic
+Possession Sound Entrance (Depth 322ft),PUG1605,20,47.8993,122.3601,Harmonic
+West of Mukilteo (Depth 62ft),PUG1609,36,47.949,122.3285,Harmonic
+West of Mukilteo (Depth 140ft),PUG1609,30,47.949,122.3285,Harmonic
+West of Mukilteo (Depth 272ft),PUG1609,20,47.949,122.3285,Harmonic
+Clinton Ferry Terminal (Depth 21ft),PUG1612,10,47.969,122.3451,Harmonic
+Clinton Ferry Terminal (Depth 47ft),PUG1612,6,47.969,122.3451,Harmonic
+Clinton Ferry Terminal (Depth 80ft),PUG1612,1,47.969,122.3451,Harmonic
+"Camano Head-Sandy Point, passage (Depth 32ft)",PUG1618,42,48.0478,122.389,Harmonic
+"Camano Head-Sandy Point, passage (Depth 78ft)",PUG1618,35,48.0478,122.389,Harmonic
+"Camano Head-Sandy Point, passage (Depth 209ft)",PUG1618,15,48.0478,122.389,Harmonic
+Everett (Depth 25ft),PUG1613,29,47.9762,122.2382,Weak and Variable
+"Skagit Bay, 1 mi. south of Goat Island (Depth 12ft)",PUG1627,17,48.3448,122.5451,Harmonic
+"Skagit Bay, 1 mi. south of Goat Island (Depth 32ft)",PUG1627,11,48.3448,122.5451,Harmonic
+"Skagit Bay, 1 mi. south of Goat Island (Depth 52ft)",PUG1627,5,48.3448,122.5451,Harmonic
+Port Susan,PCT1926,1,48.1,122.3667,Weak and Variable
+West of Camano Island (Depth 23ft),PUG1622,27,48.1697,122.5532,Harmonic
+West of Camano Island (Depth 69ft),PUG1622,20,48.1697,122.5532,Harmonic
+West of Camano Island (Depth 180ft),PUG1622,3,48.1697,122.5532,Harmonic
+"Skagit Bay, 1 mi. north of Rocky Point (Depth 12ft)",PUG1626,20,48.2671,122.5296,Harmonic
+"Skagit Bay, 1 mi. north of Rocky Point (Depth 28ft)",PUG1626,15,48.2671,122.5296,Harmonic
+"Skagit Bay, 1 mi. north of Rocky Point (Depth 54ft)",PUG1626,7,48.2671,122.5296,Harmonic
+"Skagit Bay channel, SW of Hope Island (Depth 10ft)",PUG1628,13,48.3978,122.5795,Harmonic
+"Skagit Bay channel, SW of Hope Island (Depth 26ft)",PUG1628,8,48.3978,122.5795,Harmonic
+"Skagit Bay channel, SW of Hope Island (Depth 39ft)",PUG1628,4,48.3978,122.5795,Harmonic
+"Yokeko Point, Deception Pass (Depth 7ft)",PUG1629,9,48.4127,122.6132,Harmonic
+"Yokeko Point, Deception Pass (Depth 14ft)",PUG1629,7,48.4127,122.6132,Harmonic
+"Yokeko Point, Deception Pass (Depth 27ft)",PUG1629,3,48.4127,122.6132,Harmonic
+Deception Pass (Narrows) (Depth 18ft),PUG1701,33,48.4062,122.6431,Harmonic
+Deception Pass (Narrows) (Depth 47ft),PUG1701,24,48.4062,122.6431,Harmonic
+Deception Pass (Narrows) (Depth 67ft),PUG1701,18,48.4062,122.6431,Harmonic
+"Iceberg Point, 2.1 miles SSW of",PCT1966,1,48.3833,122.9167,Subordinate
+"Colville Island, 1 mile SSE of",PCT1971,1,48.4,122.8167,Subordinate
+"Point Colville, 1.4 nm east of (Depth 29ft)",PUG1728,26,48.4181,122.7812,Harmonic
+"Point Colville, 1.4 nm east of (Depth 56ft)",PUG1728,22,48.4181,122.7812,Harmonic
+"Point Colville, 1.4 nm east of (Depth 134ft)",PUG1728,10,48.4181,122.7812,Harmonic
+"Point Colville, 3.0 nm east of (Lawson Reef, 1 nm (Depth 34ft)",PUG1727,30,48.4125,122.7403,Harmonic
+"Point Colville, 3.0 nm east of (Lawson Reef, 1 nm (Depth 47ft)",PUG1727,28,48.4125,122.7403,Harmonic
+"Point Colville, 3.0 nm east of (Lawson Reef, 1 nm (Depth 165ft)",PUG1727,10,48.4125,122.7403,Harmonic
+Rosario Strait (Depth 47ft),PUG1702,16,48.4581,122.7501,Harmonic
+Rosario Strait (Depth 76ft),PUG1702,13,48.4581,122.7501,Harmonic
+Rosario Strait (Depth 116ft),PUG1702,9,48.4581,122.7501,Harmonic
+Lopez Pass (Depth 15ft),PUG1730,17,48.4797,122.8189,Harmonic
+Lopez Pass (Depth 35ft),PUG1730,11,48.4797,122.8189,Harmonic
+Lopez Pass (Depth 58ft),PUG1730,4,48.4797,122.8189,Harmonic
+"Burrows Bay, 0.5 mile east of Allan I",PCT2006,1,48.4628,122.6828,Subordinate
+"Belle Rock Light, east of (Depth 23ft)",PUG1729,21,48.4968,122.7308,Harmonic
+"Belle Rock Light, east of (Depth 62ft)",PUG1729,15,48.4968,122.7308,Harmonic
+"Belle Rock Light, east of (Depth 115ft)",PUG1729,7,48.4968,122.7308,Harmonic
+"Green Point, 0.8 mile northwest of",PCT2026,1,48.5047,122.7062,Subordinate
+"Fauntleroy Point Light, east of (Depth 21ft)",PUG1731,18,48.5216,122.7707,Harmonic
+"Fauntleroy Point Light, east of (Depth 54ft)",PUG1731,13,48.5216,122.7707,Harmonic
+"Fauntleroy Point Light, east of (Depth 93ft)",PUG1731,7,48.5216,122.7707,Harmonic
+Thatcher Pass (Depth 28ft),PUG1733,22,48.5274,122.804,Harmonic
+Thatcher Pass (Depth 61ft),PUG1733,17,48.5274,122.804,Harmonic
+Thatcher Pass (Depth 146ft),PUG1733,4,48.5274,122.804,Harmonic
+"Frost-Willow Island, between",PCT2046,1,48.5392,122.8308,Subordinate
+Bellingham Channel South (Depth 19ft),PUG1739,31,48.5396,122.6834,Harmonic
+Bellingham Channel South (Depth 33ft),PUG1739,27,48.5396,122.6834,Harmonic
+Bellingham Channel South (Depth 118ft),PUG1739,1,48.5396,122.6834,Harmonic
+"Strawberry Island, west of (Depth 33ft)",PUG1732,25,48.561,122.7543,Harmonic
+"Strawberry Island, west of (Depth 46ft)",PUG1732,23,48.561,122.7543,Harmonic
+"Strawberry Island, west of (Depth 164ft)",PUG1732,5,48.561,122.7543,Harmonic
+"Peavine Pass, west entrance (Depth 9ft)",PUG1704,13,48.5871,122.8193,Harmonic
+"Peavine Pass, west entrance (Depth 19ft)",PUG1704,10,48.5871,122.8193,Harmonic
+"Peavine Pass, west entrance (Depth 48ft)",PUG1704,1,48.5871,122.8193,Harmonic
+"Obstruction Pass, north of Obstruction Island (Depth 8ft)",PUG1705,15,48.6033,122.8127,Harmonic
+"Obstruction Pass, north of Obstruction Island (Depth 15ft)",PUG1705,13,48.6033,122.8127,Harmonic
+"Obstruction Pass, north of Obstruction Island (Depth 54ft)",PUG1705,1,48.6033,122.8127,Harmonic
+"Peapod Rocks Light, 1.2 nm south of (Depth 39ft)",PUG1706,11,48.6224,122.7476,Harmonic
+"Peapod Rocks Light, 1.2 nm south of (Depth 78ft)",PUG1706,8,48.6224,122.7476,Harmonic
+"Peapod Rocks Light, 1.2 nm south of (Depth 170ft)",PUG1706,1,48.6224,122.7476,Harmonic
+"Barnes Island, 0.8 mile southwest of",PCT2071,1,48.6858,122.7888,Subordinate
+"Raccoon Point, 0.6 mile NNE of",PCT2076,1,48.7063,122.8292,Subordinate
+"Matia Island, 0.8 mile west of",PCT2086,1,48.7488,122.8658,Subordinate
+"Guemes Channel, West Entrance (Depth 11ft)",PUG1734,14,48.5212,122.6522,Harmonic
+"Guemes Channel, West Entrance (Depth 24ft)",PUG1734,10,48.5212,122.6522,Harmonic
+"Guemes Channel, West Entrance (Depth 53ft)",PUG1734,1,48.5212,122.6522,Harmonic
+"Guemes Channel, East Entrance (Depth 9ft)",PUG1735,14,48.5277,122.606,Harmonic
+"Guemes Channel, East Entrance (Depth 25ft)",PUG1735,9,48.5277,122.606,Harmonic
+"Guemes Channel, East Entrance (Depth 52ft)",PUG1735,1,48.5277,122.606,Harmonic
+Saddle Bag Island Passage (Depth 22ft),PUG1736,34,48.5359,122.5639,Harmonic
+Saddle Bag Island Passage (Depth 48ft),PUG1736,30,48.5359,122.5639,Harmonic
+Saddle Bag Island Passage (Depth 87ft),PUG1736,24,48.5359,122.5639,Harmonic
+"Huckleberry Island, 0.5 mile north of",PCT2106,1,48.5458,122.5663,Subordinate
+"Eliza Island, 0.5 mile southeast of",PCT2116,1,48.65,122.5667,Weak and Variable
+"Bellingham Channel, off Cypress Head Light (Depth 31ft)",PUG1740,19,48.5585,122.6618,Harmonic
+"Bellingham Channel, off Cypress Head Light (Depth 50ft)",PUG1740,17,48.5585,122.6618,Harmonic
+"Bellingham Channel, off Cypress Head Light (Depth 119ft)",PUG1740,10,48.5585,122.6618,Harmonic
+Bellingham Channel North Entrance (Depth 27ft),PUG1741,27,48.5928,122.6577,Harmonic
+Bellingham Channel North Entrance (Depth 47ft),PUG1741,24,48.5928,122.6577,Harmonic
+Bellingham Channel North Entrance (Depth 171ft),PUG1741,5,48.5928,122.6577,Harmonic
+"Towhead Island, 0.4 mile east of",PCT2126,1,48.6122,122.7022,Subordinate
+"Sinclair Island, 1.0 nm NE of (Depth 26ft)",PUG1707,28,48.6442,122.6587,Harmonic
+"Sinclair Island, 1.0 nm NE of (Depth 99ft)",PUG1707,17,48.6442,122.6587,Harmonic
+"Sinclair Island, 1.0 nm NE of (Depth 171ft)",PUG1707,6,48.6442,122.6587,Harmonic
+"Lawrence Point, Orcas Island, 1.3 nm NE of (Depth 37ft)",PUG1708,16,48.6794,122.7147,Harmonic
+"Lawrence Point, Orcas Island, 1.3 nm NE of (Depth 63ft)",PUG1708,14,48.6794,122.7147,Harmonic
+"Lawrence Point, Orcas Island, 1.3 nm NE of (Depth 115ft)",PUG1708,10,48.6794,122.7147,Harmonic
+"Hale Passage, east of Lummi Point (Depth 8ft)",PUG1710,14,48.7349,122.6802,Harmonic
+"Hale Passage, east of Lummi Point (Depth 27ft)",PUG1710,8,48.7349,122.6802,Harmonic
+"Hale Passage, east of Lummi Point (Depth 44ft)",PUG1710,3,48.7349,122.6802,Harmonic
+"Clark Island, 1.6 nm north of (Depth 29ft)",PUG1709,33,48.7313,122.7734,Harmonic
+"Clark Island, 1.6 nm north of (Depth 48ft)",PUG1709,30,48.7313,122.7734,Harmonic
+"Clark Island, 1.6 nm north of (Depth 180ft)",PUG1709,10,48.7313,122.7734,Harmonic
+"Matia Island, west of (Depth 47ft)",PUG1711,26,48.7749,122.841,Harmonic
+"Matia Island, west of (Depth 87ft)",PUG1711,23,48.7749,122.841,Harmonic
+"Matia Island, west of (Depth 336ft)",PUG1711,4,48.7749,122.841,Harmonic
+"Parker Reef Light, north of (Depth 31ft)",PUG1712,25,48.7326,122.8864,Harmonic
+"Parker Reef Light, north of (Depth 45ft)",PUG1712,23,48.7326,122.8864,Harmonic
+"Parker Reef Light, north of (Depth 130ft)",PUG1712,10,48.7326,122.8864,Harmonic
+"Patos Island, south of Toe Point (Depth 14ft)",PUG1713,25,48.7721,122.9337,Harmonic
+"Patos Island, south of Toe Point (Depth 30ft)",PUG1713,20,48.7721,122.9337,Harmonic
+"Patos Island, south of Toe Point (Depth 63ft)",PUG1713,10,48.7721,122.9337,Harmonic
+"Patos Island Light, 1.4 nm west of (Depth 46ft)",PUG1714,27,48.7731,123.0058,Harmonic
+"Patos Island Light, 1.4 nm west of (Depth 99ft)",PUG1714,23,48.7731,123.0058,Harmonic
+"Patos Island Light, 1.4 nm west of (Depth 191ft)",PUG1714,16,48.7731,123.0058,Harmonic
+"Alden Point, Patos Island, 2 miles S of",PCT2286,1,48.7578,122.9803,Subordinate
+"Puffin Island Light, 4.8 miles north of",PCT2166,1,48.8222,122.8083,Subordinate
+"Cherry Point, 1.8 nm southeast of (Depth 8ft)",PUG1725,30,48.8338,122.7279,Harmonic
+"Cherry Point, 1.8 nm southeast of (Depth 24ft)",PUG1725,20,48.8338,122.7279,Harmonic
+"Cherry Point, 1.8 nm southeast of (Depth 41ft)",PUG1725,10,48.8338,122.7279,Harmonic
+Cherry Point (Depth 47ft),cp0101,20,48.8627,122.761,Harmonic
+"Cattle Point, 2.8 miles SSW of",PCT1416,1,48.4,123.0,Subordinate
+"Cattle Point, 4.6 nm SW of (Depth 55ft)",PUG1743,22,48.384,123.0157,Harmonic
+"Cattle Point, 4.6 nm SW of (Depth 105ft)",PUG1743,19,48.384,123.0157,Harmonic
+"Cattle Point, 4.6 nm SW of (Depth 187ft)",PUG1743,14,48.384,123.0157,Harmonic
+"Cattle Point, 1.2 nm SE of (Depth 39ft)",PUG1742,21,48.4344,122.9466,Harmonic
+"Cattle Point, 1.2 nm SE of (Depth 78ft)",PUG1742,18,48.4344,122.9466,Harmonic
+"Cattle Point, 1.2 nm SE of (Depth 117ft)",PUG1742,15,48.4344,122.9466,Harmonic
+"San Juan Channel, south entrance (Depth 75ft)",PUG1703,17,48.461,122.952,Harmonic
+"San Juan Channel, south entrance (Depth 92ft)",PUG1703,16,48.461,122.952,Harmonic
+"San Juan Channel, south entrance (Depth 114ft)",PUG1703,13,48.461,122.952,Harmonic
+"Kings Point, Lopez Island, 1 mile NNW of (Depth 15ft)",PCT2191,1,48.4833,122.9558,Subordinate
+"Pear Point, east of (Depth 32ft)",PUG1746,10,48.5114,122.9529,Harmonic
+"Pear Point, east of (Depth 59ft)",PUG1746,8,48.5114,122.9529,Harmonic
+"Pear Point, east of (Depth 112ft)",PUG1746,4,48.5114,122.9529,Harmonic
+"Point George, west of (Depth 53ft)",PUG1745,24,48.5567,122.9985,Harmonic
+"Point George, west of (Depth 119ft)",PUG1745,20,48.5567,122.9985,Harmonic
+"Point George, west of (Depth 283ft)",PUG1745,10,48.5567,122.9985,Harmonic
+Upright Channel narrows (Depth 24ft),PUG1723,18,48.5538,122.9226,Harmonic
+Upright Channel narrows (Depth 57ft),PUG1723,13,48.5538,122.9226,Harmonic
+Upright Channel narrows (Depth 97ft),PUG1723,7,48.5538,122.9226,Harmonic
+Wasp Passage narrows (Depth 11ft),PUG1721,17,48.5925,122.9896,Harmonic
+Wasp Passage narrows (Depth 31ft),PUG1721,11,48.5925,122.9896,Harmonic
+Wasp Passage narrows (Depth 60ft),PUG1721,2,48.5925,122.9896,Harmonic
+"Spring Passage, south entrance (Depth 13ft)",PUG1720,26,48.6115,123.0341,Harmonic
+"Spring Passage, south entrance (Depth 26ft)",PUG1720,22,48.6115,123.0341,Harmonic
+"Spring Passage, south entrance (Depth 62ft)",PUG1720,11,48.6115,123.0341,Harmonic
+"Spieden Channel, north of Limestone Point (Depth 47ft)",PUG1719,19,48.6278,123.1116,Harmonic
+"Spieden Channel, north of Limestone Point (Depth 60ft)",PUG1719,18,48.6278,123.1116,Harmonic
+"Spieden Channel, north of Limestone Point (Depth 205ft)",PUG1719,7,48.6278,123.1116,Harmonic
+"President Channel, East of Point Disney (Depth 69ft)",PUG1715,38,48.6733,123.006,Harmonic
+"President Channel, East of Point Disney (Depth 108ft)",PUG1715,35,48.6733,123.006,Harmonic
+"Harney Channel, north of Point Hudson (Depth 13ft)",PUG1722,27,48.5897,122.9217,Harmonic
+"Harney Channel, north of Point Hudson (Depth 36ft)",PUG1722,20,48.5897,122.9217,Harmonic
+"Harney Channel, north of Point Hudson (Depth 82ft)",PUG1722,6,48.5897,122.9217,Harmonic
+East Sound entrance,PCT2236,1,48.587,122.857,Weak and Variable
+"East Sound, 0.2 mile SW of Rosario Point",PCT2241,1,48.6442,122.8813,Weak and Variable
+"Discovery Island, 3.0 nm NE of (Depth 41ft)",PUG1744,22,48.4521,123.1554,Harmonic
+"Discovery Island, 3.0 nm NE of (Depth 68ft)",PUG1744,20,48.4521,123.1554,Harmonic
+"Discovery Island, 3.0 nm NE of (Depth 160ft)",PUG1744,13,48.4521,123.1554,Harmonic
+"South Haro Strait, south of Lime Kiln Light (Depth 107ft)",PUG1724,31,48.498,123.1599,Harmonic
+"South Haro Strait, south of Lime Kiln Light (Depth 159ft)",PUG1724,29,48.498,123.1599,Harmonic
+"South Haro Strait, south of Lime Kiln Light (Depth 212ft)",PUG1724,27,48.498,123.1599,Harmonic
+"Haro Strait, 1.2 nm west of Kellett Bluff (Depth 66ft)",PUG1718,36,48.5887,123.2258,Harmonic
+"Haro Strait, 1.2 nm west of Kellett Bluff (Depth 106ft)",PUG1718,34,48.5887,123.2258,Harmonic
+"Haro Strait, 1.2 nm west of Kellett Bluff (Depth 204ft)",PUG1718,29,48.5887,123.2258,Harmonic
+"Turn Point, Boundary Pass (Depth 116ft)",PUG1717,35,48.6912,123.245,Harmonic
+"Turn Point, Boundary Pass (Depth 168ft)",PUG1717,31,48.6912,123.245,Harmonic
+"Turn Point, Boundary Pass (Depth 208ft)",PUG1717,28,48.6912,123.245,Harmonic
+"Johns Island, 0.8 mile north of",PCT2266,1,48.6833,123.15,Subordinate
+"Waldron Island, 1.7 nm west of (Depth 27ft)",PUG1716,23,48.7042,123.1048,Subordinate
+"Waldron Island, 1.7 nm west of (Depth 93ft)",PUG1716,13,48.7042,123.1048,Subordinate
+"Waldron Island, 1.7 nm west of (Depth 159ft)",PUG1716,3,48.7042,123.1048,Subordinate
+"Skipjack Island, 1.5 miles northwest of (Depth 15ft)",PCT2276,1,48.7495,123.0608,Subordinate
+"Point Hammond, 1.1 miles northwest of (Depth 15ft)",PCT2281,1,48.732,123.0253,Subordinate
+Drayton Harbor Entrance,PCT2301,1,48.9908,122.7678,Subordinate
+"Strait of Georgia, 4.5 nm SW of Point Roberts (Depth 31ft)",PUG1726,35,48.9389,123.1651,Harmonic
+"Strait of Georgia, 4.5 nm SW of Point Roberts (Depth 70ft)",PUG1726,29,48.9389,123.1651,Harmonic
+"Strait of Georgia, 4.5 nm SW of Point Roberts (Depth 189ft)",PUG1726,11,48.9389,123.1651,Harmonic
