@@ -1,0 +1,471 @@
+NAME	ID	BIN#	LAT	LON	PREDICTIONS
+COLUMBIA RIVER AND APPROACHES					
+Sand Island Tower, 1nm SE of (midchannel) (Depth 15ft)	PCT1106	1	46.2528° N	123.9908° W	Subordinate
+Sand Island Tower, 0.9nm SE of (north channel) (Depth 15ft)	PCT1111	1	46.2578° N	123.9945° W	Subordinate
+Baker Bay entrance, E of Sand Island Tower (Depth 23ft)	PCT1116	1	46.2620° N	123.9980° W	Subordinate
+Clatsop Spit, NNE of (Depth 15ft)	PCT1121	1	46.2462° N	123.9942° W	Subordinate
+Sand Island, SSE of (Depth 12ft)	PCT1126	1	46.2555° N	123.9680° W	Subordinate
+Youngs Bay Bridge (Depth 9ft)	PCT1146	1	46.1778° N	123.8683° W	Subordinate
+Hammond, northeast of ship channel (Depth 15ft)	PCT1151	1	46.2112° N	123.9345° W	Subordinate
+McGowan, SSW of (Depth 14ft)	PCT1156	1	46.2395° N	123.9153° W	Subordinate
+Point Ellice, east of (Depth 17ft)	PCT1161	1	46.2417° N	123.8483° W	Subordinate
+Point Adams, NNE OF (Depth 14ft)	PCT1166	1	46.2278° N	123.9675° W	Subordinate
+Chinook Point, WSW of (Depth 14ft)	PCT1171	1	46.2422° N	123.9642° W	Subordinate
+Tongue Point, northwest of (Depth 15ft)	PCT1176	1	46.2192° N	123.7667° W	Subordinate
+Woody Island Channel (Depth 15ft)	PCT1186	1	46.2395° N	123.6733° W	Subordinate
+Woody Island Channel (off Seal Island) (Depth 12ft)	PCT1191	1	46.2175° N	123.6292° W	Subordinate
+Quinn Island, Prairie Channel (Depth 8ft)	PCT1201	1	46.2372° N	123.5033° W	Subordinate
+Clifton Channel (Depth 10ft)	PCT1206	1	46.2178° N	123.4653° W	Subordinate
+Hunting Island, south of (Depth 20ft)	PCT1216	1	46.2072° N	123.4042° W	Subordinate
+Cathlamet Channel, SE of Nassa Point (Depth 19ft)	PCT1231	1	46.1562° N	123.3150° W	Subordinate
+Walker Island, south of (Depth 12ft)	PCT1251	1	46.1412° N	123.0458° W	Subordinate
+WASHINGTON COAST					
+South Bend, Willapa River	PCT1271	1	46.6647° N	123.8013° W	Subordinate
+GRAYS HARBOR					
+Entrance, 0.2 mile south of north jetty	PCT1276	1	46.9263° N	124.1613° W	Subordinate
+Entrance, Point Chehalis Range	PCT1281	1	46.9083° N	124.1555° W	Subordinate
+Entrance, 0.6 mile WNW of Westport	PCT1286	1	46.9147° N	124.1250° W	Subordinate
+Grays Harbor Entrance	PCT1291	1	46.9225° N	124.1330° W	Harmonic
+Entrance, 1.1 miles NW of Westport	PCT1296	1	46.9167° N	124.1333° W	Subordinate
+Channel, 1.5 miles north of Westport	PCT1301	1	46.9333° N	124.1000° W	Subordinate
+Channel, 2.1 miles NNE of Westport	PCT1306	1	46.9333° N	124.0833° W	Subordinate
+Westport, channel 0.4 mile NE of	PCT1316	1	46.9142° N	124.1083° W	Subordinate
+WASHINGTON-BRITISH COLUMBIA COAST					
+Quillayute River entrance	PCT1321	1	47.9167° N	124.6333° W	Subordinate
+STRAIGHT OF JUAN DE FUCA					
+Strait of Juan de Fuca Entrance (Depth 102ft)	PUG1642	49	48.4500° N	124.5838° W	Harmonic
+Pillar Point, 6 mi. NNE of (Depth 41ft)	PUG1641	75	48.3000° N	124.0374° W	Harmonic
+Pillar Point, 6 mi. NNE of (Depth 74ft)	PUG1641	70	48.3000° N	124.0374° W	Harmonic
+Pillar Point, 6 mi. NNE of (Depth 297ft)	PUG1641	36	48.3000° N	124.0374° W	Harmonic
+Angeles Pt., 2 mi. NNE of (Depth 12ft)	PUG1639	16	48.1770° N	123.5269° W	Harmonic
+Angeles Pt., 2 mi. NNE of (Depth 25ft)	PUG1639	12	48.1770° N	123.5269° W	Harmonic
+Angeles Pt., 2 mi. NNE of (Depth 61ft)	PUG1639	1	48.1770° N	123.5269° W	Harmonic
+Race Rocks, 4.5 mi. S of (Depth 60ft)	PUG1640	18	48.2232° N	123.5323° W	Harmonic
+Race Rocks, 4.5 mi. S of (Depth 237ft)	PUG1640	9	48.2232° N	123.5323° W	Harmonic
+Port Angeles	PCT1371	1	48.1333° N	123.4167° W	Weak and Variable
+Ediz Hook Light, 1.4 miles southeast of	PCT1376	1	48.1167° N	123.4000° W	Weak and Variable
+Ediz Hook Light, 1.2 miles N of (Depth 36ft)	PUG1638	22	48.1667° N	123.4158° W	Harmonic
+Ediz Hook Light, 1.2 miles N of (Depth 85ft)	PUG1638	17	48.1667° N	123.4158° W	Harmonic
+Ediz Hook Light, 1.2 miles N of (Depth 184ft)	PUG1638	7	48.1667° N	123.4158° W	Harmonic
+Ediz Hook Light, 5.3 mi. ENE of (Depth 22ft)	PUG1637	29	48.1823° N	123.2815° W	Harmonic
+Ediz Hook Light, 5.3 mi. ENE of (Depth 28ft)	PUG1637	28	48.1823° N	123.2815° W	Harmonic
+Ediz Hook Light, 5.3 mi. ENE of (Depth 179ft)	PUG1637	5	48.1823° N	123.2815° W	Harmonic
+Trial Island, 5.2 miles SSW of (Depth 15ft)	PCT1391	1	48.3167° N	123.3667° W	Subordinate
+New Dungeness Light, 2.8 mi. NNW of (Depth 52ft)	PUG1635	58	48.2335° N	123.1334° W	Harmonic
+New Dungeness Light, 2.8 mi. NNW of (Depth 71ft)	PUG1635	55	48.2335° N	123.1334° W	Harmonic
+New Dungeness Light, 2.8 mi. NNW of (Depth 360ft)	PUG1635	11	48.2335° N	123.1334° W	Harmonic
+New Dungeness Light, 6 miles NNE of (Depth 15ft)	PCT1401	1	48.2667° N	123.0500° W	Subordinate
+Discovery Island, 7.6 mi. SSE of (Depth 28ft)	PUG1636	34	48.3002° N	123.1672° W	Harmonic
+Discovery Island, 7.6 mi. SSE of (Depth 120ft)	PUG1636	20	48.3002° N	123.1672° W	Harmonic
+Discovery Island, 7.6 mi. SSE of (Depth 244ft)	PUG1636	1	48.3002° N	123.1672° W	Harmonic
+Discovery Island, 3 miles SSE of (Depth 15ft)	PCT1411	1	48.3833° N	123.2000° W	Subordinate
+Violet Point, 3.7 mi. NW of Protection Island (Depth 17ft)	PUG1631	33	48.1614° N	122.9681° W	Harmonic
+Violet Point, 3.7 mi. NW of Protection Island (Depth 40ft)	PUG1631	26	48.1614° N	122.9681° W	Harmonic
+Violet Point, 3.7 mi. NW of Protection Island (Depth 112ft)	PUG1631	4	48.1614° N	122.9681° W	Harmonic
+Kanem Point, 1.5 mi. SW of Protection Island (Depth 22ft)	PUG1630	53	48.1076° N	122.9737° W	Harmonic
+Kanem Point, 1.5 mi. SW of Protection Island (Depth 55ft)	PUG1630	43	48.1076° N	122.9737° W	Harmonic
+Kanem Point, 1.5 mi. SW of Protection Island (Depth 97ft)	PUG1630	30	48.1076° N	122.9737° W	Harmonic
+Smith Island, 5.5 mi. WNW of (Depth 43ft)	PUG1632	41	48.3246° N	122.9647° W	Harmonic
+Smith Island, 5.5 mi. WNW of (Depth 141ft)	PUG1632	26	48.3246° N	122.9647° W	Harmonic
+Smith Island, 5.5 mi. WNW of (Depth 220ft)	PUG1632	14	48.3246° N	122.9647° W	Harmonic
+Smith Island, 1.4 miles SSW of	PCT1451	1	48.3000° N	122.8500° W	Subordinate
+Smith Island, 3.4 mi. ESE of (Depth 20ft)	PUG1634	36	48.2964° N	122.7763° W	Harmonic
+Smith Island, 3.4 mi. ESE of (Depth 56ft)	PUG1634	25	48.2964° N	122.7763° W	Harmonic
+Smith Island, 3.4 mi. ESE of (Depth 134ft)	PUG1634	1	48.2964° N	122.7763° W	Harmonic
+Point Partridge, 3.7 miles west of	PCT1466	1	48.2333° N	122.8667° W	Subordinate
+ADMIRALTY INLET					
+Point Wilson, 0.6 mi. NE of (Depth 17ft)	PUG1623	45	48.1501° N	122.7454° W	Harmonic
+Point Wilson, 0.6 mi. NE of (Depth 56ft)	PUG1623	33	48.1501° N	122.7454° W	Harmonic
+Point Wilson, 0.6 mi. NE of (Depth 118ft)	PUG1623	14	48.1501° N	122.7454° W	Harmonic
+Point Wilson, 1.6 mi. NE of (Depth 21ft)	PUG1624	47	48.1569° N	122.7260° W	Harmonic
+Point Wilson, 1.6 mi. NE of (Depth 87ft)	PUG1624	27	48.1569° N	122.7260° W	Harmonic
+Point Wilson, 1.6 mi. NE of (Depth 149ft)	PUG1624	8	48.1569° N	122.7260° W	Harmonic
+Point Wilson, 2.7 mi. NE of (Depth 20ft)	PUG1625	45	48.1671° N	122.7074° W	Harmonic
+Point Wilson, 2.7 mi. NE of (Depth 56ft)	PUG1625	34	48.1671° N	122.7074° W	Harmonic
+Point Wilson, 2.7 mi. NE of (Depth 118ft)	PUG1625	15	48.1671° N	122.7074° W	Harmonic
+Point Wilson, 0.8 mile east of	PCT1496	1	48.1500° N	122.7333° W	Subordinate
+Port Townsend, 0.5 mile S of Pt. Hudson	PCT1501	1	48.1167° N	122.7500° W	Weak and Variable
+Marrowstone Point					
+Marrowstone Point, 1.1 miles northwest of	PCT1511	1	48.1167° N	122.7000° W	Subordinate
+Marrowstone Point, 0.8 mi. NE of (Depth 29ft)	PUG1619	46	48.1063° N	122.6725° W	Harmonic
+Marrowstone Point, 0.8 mi. NE of (Depth 75ft)	PUG1619	32	48.1063° N	122.6725° W	Harmonic
+Marrowstone Point, 0.8 mi. NE of (Depth 151ft)	PUG1619	9	48.1063° N	122.6725° W	Harmonic
+Marrowstone Point, 1.65 mi. NE of (Depth 26ft)	PUG1620	28	48.1193° N	122.6623° W	Harmonic
+Marrowstone Point, 1.65 mi. NE of (Depth 79ft)	PUG1620	20	48.1193° N	122.6623° W	Harmonic
+Marrowstone Point, 1.65 mi. NE of (Depth 144ft)	PUG1620	10	48.1193° N	122.6623° W	Harmonic
+Nodule Point, 0.5 mi. SE of (Depth 9ft)	PUG1615	18	48.0287° N	122.6609° W	Harmonic
+Nodule Point, 0.5 mi. SE of (Depth 25ft)	PUG1615	13	48.0287° N	122.6609° W	Harmonic
+Nodule Point, 0.5 mi. SE of (Depth 65ft)	PUG1615	1	48.0287° N	122.6609° W	Harmonic
+Admiralty Inlet (off Bush Point) (Depth 29ft)	PUG1616	31	48.0335° N	122.6376° W	Harmonic
+Admiralty Inlet (off Bush Point) (Depth 68ft)	PUG1616	25	48.0335° N	122.6376° W	Harmonic
+Admiralty Inlet (off Bush Point) (Depth 193ft)	PUG1616	6	48.0335° N	122.6376° W	Harmonic
+Bush Point Light, 0.5 mile NW of (Depth 44ft)	PUG1617	39	48.0308° N	122.6133° W	Harmonic
+Bush Point Light, 0.5 mile NW of (Depth 77ft)	PUG1617	34	48.0308° N	122.6133° W	Harmonic
+Bush Point Light, 0.5 mile NW of (Depth 208ft)	PUG1617	14	48.0308° N	122.6133° W	Harmonic
+Olele Point, 1.8 mi. ENE of (Depth 20ft)	PUG1611	49	47.9788° N	122.6455° W	Harmonic
+Olele Point, 1.8 mi. ENE of (Depth 66ft)	PUG1611	35	47.9788° N	122.6455° W	Harmonic
+Olele Point, 1.8 mi. ENE of (Depth 148ft)	PUG1611	10	47.9788° N	122.6455° W	Harmonic
+Port Townsend Canal (Depth 5ft)	PUG1614	7	48.0325° N	122.7326° W	Harmonic
+Port Townsend Canal (Depth 15ft)	PUG1614	1	48.0325° N	122.7326° W	Harmonic
+HOOD CANAL					
+Hood Canal Entrance, Foulweather Bluff (Depth 32ft)	PUG1608	35	47.9284° N	122.6388° W	Harmonic
+Hood Canal Entrance, Foulweather Bluff (Depth 78ft)	PUG1608	28	47.9284° N	122.6388° W	Harmonic
+Hood Canal Entrance, Foulweather Bluff (Depth 255ft)	PUG1608	1	47.9284° N	122.6388° W	Harmonic
+Port Gamble Bay, 0.5 mile N of entrance	PCT1571	1	47.8645° N	122.5772° W	Weak and Variable
+Port Gamble Bay Entrance (Depth 10ft)	PUG1604	8	47.8547° N	122.5782° W	Harmonic
+Port Gamble Bay Entrance (Depth 32ft)	PUG1604	1	47.8547° N	122.5782° W	Harmonic
+Hood Canal Bridge (Depth 22ft)	PUG1603	20	47.8547° N	122.6294° W	Harmonic
+Hood Canal Bridge (Depth 111ft)	PUG1603	11	47.8547° N	122.6294° W	Harmonic
+Hood Canal Bridge (Depth 209ft)	PUG1603	1	47.8547° N	122.6294° W	Harmonic
+South Point (Depth 24ft)	PUG1602	48	47.8217° N	122.6767° W	Harmonic
+South Point (Depth 43ft)	PUG1602	42	47.8217° N	122.6767° W	Harmonic
+South Point (Depth 178ft)	PUG1602	1	47.8217° N	122.6767° W	Harmonic
+Bangor, Hood Canal LB B (Depth 14ft)	ks0201	2	47.7578° N	122.7306° W	Harmonic
+Bangor, Hood Canal LB B (Depth 28ft)	ks0201	6	47.7578° N	122.7306° W	Harmonic
+Bangor, Hood Canal LB B (Depth 41ft)	ks0201	10	47.7578° N	122.7306° W	Harmonic
+Hazel Point (Depth 23ft)	PUG1601	21	47.6912° N	122.7628° W	Harmonic
+Hazel Point (Depth 88ft)	PUG1601	11	47.6912° N	122.7628° W	Harmonic
+Hazel Point (Depth 154ft)	PUG1601	1	47.6912° N	122.7628° W	Harmonic
+Chinom Point	PCT1596	1	47.5333° N	123.0333° W	Weak and Variable
+PUGET SOUND					
+Useless Bay	PCT1606	1	47.9783° N	122.4953° W	Weak and Variable
+Foulweather Bluff, 1.9 mi. NE of (Depth 20ft)	PUG1610	33	47.9543° N	122.5786° W	Harmonic
+Foulweather Bluff, 1.9 mi. NE of (Depth 27ft)	PUG1610	32	47.9543° N	122.5786° W	Harmonic
+Foulweather Bluff, 1.9 mi. NE of (Depth 125ft)	PUG1610	17	47.9543° N	122.5786° W	Harmonic
+Point No Point, 1.2 mi. E of (Depth 69ft)	PUG1606	39	47.9125° N	122.5020° W	Harmonic
+Point No Point, 1.2 mi. E of (Depth 108ft)	PUG1606	36	47.9125° N	122.5020° W	Harmonic
+Point No Point, 1.2 mi. E of (Depth 567ft)	PUG1606	1	47.9125° N	122.5020° W	Harmonic
+Point No Point, 2.1 mi. E of (Depth 31ft)	PUG1607	33	47.9189° N	122.4841° W	Harmonic
+Point No Point, 2.1 mi. E of (Depth 57ft)	PUG1607	29	47.9189° N	122.4841° W	Harmonic
+Point No Point, 2.1 mi. E of (Depth 240ft)	PUG1607	1	47.9189° N	122.4841° W	Harmonic
+Edmonds, 2.5 miles West of (Depth 67ft)	PUG1503	34	47.8071° N	122.4441° W	Harmonic
+Edmonds, 2.5 miles West of (Depth 133ft)	PUG1503	29	47.8071° N	122.4441° W	Harmonic
+Edmonds, 2.5 miles West of (Depth 317ft)	PUG1503	15	47.8071° N	122.4441° W	Harmonic
+President Point, 1.5 miles east of (Depth 71ft)	PUG1511	38	47.7671° N	122.4319° W	Harmonic
+President Point, 1.5 miles east of (Depth 176ft)	PUG1511	30	47.7671° N	122.4319° W	Harmonic
+President Point, 1.5 miles east of (Depth 308ft)	PUG1511	20	47.7671° N	122.4319° W	Harmonic
+Point Jefferson, East of (Depth 19ft)	PUG1509	9	47.7445° N	122.4680° W	Harmonic
+Point Jefferson, East of (Depth 45ft)	PUG1509	5	47.7445° N	122.4680° W	Harmonic
+Point Jefferson, East of (Depth 71ft)	PUG1509	1	47.7445° N	122.4680° W	Harmonic
+Agate Passage, north end	PCT1636	1	47.7220° N	122.5550° W	Subordinate
+Agate Passage, south end (Depth 9ft)	PUG1501	6	47.7110° N	122.5671° W	Harmonic
+Agate Passage, south end (Depth 25ft)	PUG1501	1	47.7110° N	122.5671° W	Harmonic
+Port Orchard	PCT1646	1	47.6375° N	122.5847° W	Weak and Variable
+Port Orchard, off Keyport	PCT1651	1	47.7003° N	122.6083° W	Weak and Variable
+Liberty Bay (entrance), Port Orchard (Depth 7ft)	PUG1508	10	47.7068° N	122.6282° W	Harmonic
+Liberty Bay (entrance), Port Orchard (Depth 24ft)	PUG1508	5	47.7068° N	122.6282° W	Harmonic
+Liberty Bay (entrance), Port Orchard (Depth 37ft)	PUG1508	1	47.7068° N	122.6282° W	Harmonic
+Shilshole Bay	PCT1661	1	47.6833° N	122.4167° W	Weak and Variable
+West Point, West of (Depth 16ft)	PUG1515	15	47.6621° N	122.4417° W	Harmonic
+West Point, West of (Depth 49ft)	PUG1515	10	47.6621° N	122.4417° W	Harmonic
+West Point, West of (Depth 108ft)	PUG1515	1	47.6621° N	122.4417° W	Harmonic
+West Point, 1.2 miles west of	PCT1671	1	47.6595° N	122.4653° W	Weak and Variable
+Entrance to Ballard Locks (Depth 9ft)	PUG1504	7	47.6710° N	122.4070° W	Weak and Variable
+Elliott Bay entrance	PCT1676	1	47.6120° N	122.4072° W	Weak and Variable
+Alki Point, West of (Depth 38ft)	PUG1516	17	47.5761° N	122.4278° W	Harmonic
+Alki Point, West of (Depth 103ft)	PUG1516	12	47.5761° N	122.4278° W	Harmonic
+Alki Point, West of (Depth 195ft)	PUG1516	5	47.5761° N	122.4278° W	Harmonic
+Alki Point, 1 mile West of (Depth 76ft)	PUG1502	44	47.5837° N	122.4518° W	Harmonic
+Alki Point, 1 mile West of (Depth 194ft)	PUG1502	35	47.5837° N	122.4518° W	Harmonic
+Alki Point, 1 mile West of (Depth 483ft)	PUG1502	13	47.5837° N	122.4518° W	Harmonic
+Harbor Island West (Depth 9ft)	PUG1507	13	47.5831° N	122.3602° W	Harmonic
+Harbor Island West (Depth 22ft)	PUG1507	9	47.5831° N	122.3602° W	Harmonic
+Harbor Island East (Depth 6ft)	PUG1506	12	47.5885° N	122.3440° W	Weak and Variable
+Restoration Point (Depth 22ft)	PUG1512	19	47.5789° N	122.4687° W	Harmonic
+Restoration Point (Depth 81ft)	PUG1512	10	47.5789° N	122.4687° W	Harmonic
+Restoration Point (Depth 140ft)	PUG1512	1	47.5789° N	122.4687° W	Harmonic
+Rich Passage					
+Rich Passage, East end (Depth 11ft)	PUG1513	10	47.5700° N	122.5298° W	Harmonic
+Rich Passage, East end (Depth 38ft)	PUG1513	6	47.5700° N	122.5298° W	Harmonic
+Rich Passage, East end (Depth 70ft)	PUG1513	1	47.5700° N	122.5298° W	Harmonic
+Off Pleasant Beach	PCT1701	1	47.5833° N	122.5333° W	Subordinate
+Rich Passage, LB 8 (Depth 11ft)	ks0101	1	47.5933° N	122.5426° W	Harmonic
+Rich Passage, LB 8 (Depth 14ft)	ks0101	2	47.5933° N	122.5426° W	Harmonic
+Rich Passage, LB 8 (Depth 31ft)	ks0101	7	47.5933° N	122.5426° W	Harmonic
+Rich Passage, West end (Depth 12ft)	PUG1514	8	47.5899° N	122.5623° W	Harmonic
+Rich Passage, West end (Depth 31ft)	PUG1514	5	47.5899° N	122.5623° W	Harmonic
+Rich Passage, West end (Depth 57ft)	PUG1514	1	47.5899° N	122.5623° W	Harmonic
+Entrance to Eagle Harbor (Depth 9ft)	PUG1505	8	47.6196° N	122.4953° W	Harmonic
+Entrance to Eagle Harbor (Depth 32ft)	PUG1505	1	47.6196° N	122.4953° W	Weak and Variable
+Port Orchard, southwest of Waterman	PCT1711	1	47.5667° N	122.6000° W	Weak and Variable
+Port Washington Narrows, Warren Ave. Bridge (Depth 4ft)	PUG1510	6	47.5796° N	122.6307° W	Harmonic
+Port Washington Narrows, Warren Ave. Bridge (Depth 21ft)	PUG1510	1	47.5796° N	122.6307° W	Harmonic
+Blake Island, S of (Depth 44ft)	PUG1517	21	47.5203° N	122.4879° W	Harmonic
+Blake Island, S of (Depth 93ft)	PUG1517	16	47.5203° N	122.4879° W	Harmonic
+Blake Island, S of (Depth 172ft)	PUG1517	8	47.5203° N	122.4879° W	Harmonic
+Dolphin Point, 1.3 miles East of (Depth 48ft)	PUG1520	35	47.5016° N	122.4236° W	Harmonic
+Dolphin Point, 1.3 miles East of (Depth 139ft)	PUG1520	28	47.5016° N	122.4236° W	Harmonic
+Anderson Point, East of, Colvos Passage (Depth 35ft)	PUG1518	19	47.4394° N	122.5258° W	Harmonic
+Anderson Point, East of, Colvos Passage (Depth 62ft)	PUG1518	17	47.4394° N	122.5258° W	Harmonic
+Anderson Point, East of, Colvos Passage (Depth 154ft)	PUG1518	10	47.4394° N	122.5258° W	Harmonic
+Point Richmond, East of, Colvos Passage (Depth 44ft)	PUG1519	18	47.3766° N	122.5287° W	Harmonic
+Point Richmond, East of, Colvos Passage (Depth 110ft)	PUG1519	13	47.3766° N	122.5287° W	Harmonic
+Point Richmond, East of, Colvos Passage (Depth 241ft)	PUG1519	3	47.3766° N	122.5287° W	Harmonic
+Browns Point, 1.6 miles North of (Depth 28ft)	PUG1521	34	47.3287° N	122.4540° W	Harmonic
+Browns Point, 1.6 miles North of (Depth 159ft)	PUG1521	24	47.3287° N	122.4540° W	Harmonic
+Browns Point, 1.6 miles North of (Depth 290ft)	PUG1521	14	47.3287° N	122.4540° W	Harmonic
+Dalco Passage (Depth 128ft)	PUG1522	12	47.3251° N	122.5247° W	Harmonic
+Dalco Passage (Depth 187ft)	PUG1522	3	47.3251° N	122.5247° W	Harmonic
+Gig Harbor Entrance (Depth 11ft)	PUG1523	14	47.3242° N	122.5719° W	Harmonic
+Gig Harbor Entrance (Depth 31ft)	PUG1523	8	47.3242° N	122.5719° W	Harmonic
+Gig Harbor Entrance (Depth 54ft)	PUG1523	1	47.3242° N	122.5719° W	Harmonic
+The Narrows					
+The Narrows, North end - midstream (Depth 40ft)	PUG1524	16	47.3060° N	122.5500° W	Harmonic
+The Narrows, North end - midstream (Depth 87ft)	PUG1524	9	47.3060° N	122.5500° W	Harmonic
+The Narrows, North end - midstream (Depth 139ft)	PUG1524	1	47.3060° N	122.5500° W	Harmonic
+The Narrows, North End (west side) (Depth 42ft)	PUG1526	28	47.3040° N	122.5567° W	Harmonic
+The Narrows, North End (west side) (Depth 95ft)	PUG1526	20	47.3040° N	122.5567° W	Harmonic
+The Narrows, North End (west side) (Depth 193ft)	PUG1526	5	47.3040° N	122.5567° W	Harmonic
+The Narrows, 0.3 miles North of Bridge (Depth 23ft)	PUG1527	19	47.2743° N	122.5453° W	Harmonic
+The Narrows, 0.3 miles North of Bridge (Depth 69ft)	PUG1527	12	47.2743° N	122.5453° W	Harmonic
+The Narrows, 0.3 miles North of Bridge (Depth 141ft)	PUG1527	1	47.2743° N	122.5453° W	Harmonic
+The Narrows, South end (midstream) (Depth 26ft)	PUG1528	17	47.2613° N	122.5583° W	Harmonic
+The Narrows, South end (midstream) (Depth 52ft)	PUG1528	13	47.2613° N	122.5583° W	Harmonic
+The Narrows, South end (midstream) (Depth 131ft)	PUG1528	1	47.2613° N	122.5583° W	Harmonic
+Hale Passage, East end (Depth 11ft)	PUG1529	11	47.2479° N	122.5956° W	Harmonic
+Hale Passage, East end (Depth 44ft)	PUG1529	6	47.2479° N	122.5956° W	Harmonic
+Hale Passage, East end (Depth 77ft)	PUG1529	1	47.2479° N	122.5956° W	Harmonic
+Hale Passage, West end (Depth 14ft)	PUG1530	18	47.2814° N	122.6631° W	Harmonic
+Hale Passage, West end (Depth 40ft)	PUG1530	10	47.2814° N	122.6631° W	Harmonic
+Hale Passage, West end (Depth 70ft)	PUG1530	1	47.2814° N	122.6631° W	Harmonic
+Gibson Point, 0.8 miles East of (Depth 31ft)	PUG1531	18	47.2191° N	122.5887° W	Harmonic
+Gibson Point, 0.8 miles East of (Depth 81ft)	PUG1531	13	47.2191° N	122.5887° W	Harmonic
+Gibson Point, 0.8 miles East of (Depth 149ft)	PUG1531	6	47.2191° N	122.5887° W	Harmonic
+Steilacoom, 0.8 miles North of (Depth 45ft)	PUG1532	16	47.1824° N	122.6056° W	Harmonic
+Steilacoom, 0.8 miles North of (Depth 85ft)	PUG1532	13	47.1824° N	122.6056° W	Harmonic
+Steilacoom, 0.8 miles North of (Depth 177ft)	PUG1532	6	47.1824° N	122.6056° W	Harmonic
+Ketron Island, West of (Depth 38ft)	PUG1533	18	47.1486° N	122.6594° W	Harmonic
+Ketron Island, West of (Depth 90ft)	PUG1533	14	47.1486° N	122.6594° W	Harmonic
+Ketron Island, West of (Depth 143ft)	PUG1533	10	47.1486° N	122.6594° W	Harmonic
+Nisqually Reach, 0.5 miles South of Lyle Point (Depth 29ft)	PUG1534	16	47.1169° N	122.6988° W	Harmonic
+Nisqually Reach, 0.5 miles South of Lyle Point (Depth 68ft)	PUG1534	12	47.1169° N	122.6988° W	Harmonic
+Nisqually Reach, 0.5 miles South of Lyle Point (Depth 177ft)	PUG1534	1	47.1169° N	122.6988° W	Harmonic
+Balch Passage, NE of Eagle Island (Depth 11ft)	PUG1535	16	47.1906° N	122.6916° W	Harmonic
+Balch Passage, NE of Eagle Island (Depth 30ft)	PUG1535	10	47.1906° N	122.6916° W	Harmonic
+Balch Passage, NE of Eagle Island (Depth 60ft)	PUG1535	1	47.1906° N	122.6916° W	Harmonic
+Pitt Passage, NE of Pitt Island (Depth 7ft)	PUG1536	6	47.2238° N	122.7114° W	Harmonic
+Pitt Passage, NE of Pitt Island (Depth 23ft)	PUG1536	1	47.2238° N	122.7114° W	Harmonic
+Drayton Passage (Depth 19ft)	PUG1537	20	47.1726° N	122.7415° W	Harmonic
+Drayton Passage (Depth 52ft)	PUG1537	15	47.1726° N	122.7415° W	Harmonic
+Drayton Passage (Depth 118ft)	PUG1537	5	47.1726° N	122.7415° W	Harmonic
+Devils Head, West of (Depth 24ft)	PUG1538	22	47.1607° N	122.7894° W	Harmonic
+Devils Head, West of (Depth 83ft)	PUG1538	16	47.1607° N	122.7894° W	Harmonic
+Devils Head, West of (Depth 191ft)	PUG1538	5	47.1607° N	122.7894° W	Harmonic
+Dana Passage (Depth 16ft)	PUG1539	12	47.1631° N	122.8681° W	Harmonic
+Dana Passage (Depth 43ft)	PUG1539	8	47.1631° N	122.8681° W	Harmonic
+Dana Passage (Depth 88ft)	PUG1539	1	47.1631° N	122.8681° W	Harmonic
+Budd Inlet Entrance (Depth 12ft)	PUG1540	10	47.1402° N	122.9214° W	Harmonic
+Budd Inlet Entrance (Depth 32ft)	PUG1540	7	47.1402° N	122.9214° W	Harmonic
+Budd Inlet Entrance (Depth 71ft)	PUG1540	1	47.1402° N	122.9214° W	Harmonic
+Eld Inlet entrance (Depth 15ft)	PCT1861	1	47.1463° N	122.9333° W	Subordinate
+Peale Passage, South end (Depth 9ft)	PUG1541	9	47.1750° N	122.8870° W	Harmonic
+Peale Passage, South end (Depth 22ft)	PUG1541	5	47.1750° N	122.8870° W	Harmonic
+Peale Passage, South end (Depth 35ft)	PUG1541	1	47.1750° N	122.8870° W	Harmonic
+Peale Passage, North end (Depth 4ft)	PUG1542	5	47.2175° N	122.9146° W	Harmonic
+Peale Passage, North end (Depth 17ft)	PUG1542	1	47.2175° N	122.9146° W	Harmonic
+Squaxin Passage, North of Hunter Point (Depth 5ft)	PUG1543	9	47.1763° N	122.9190° W	Harmonic
+Squaxin Passage, North of Hunter Point (Depth 18ft)	PUG1543	5	47.1763° N	122.9190° W	Harmonic
+Squaxin Passage, North of Hunter Point (Depth 32ft)	PUG1543	1	47.1763° N	122.9190° W	Harmonic
+Totten Inlet Entrance (Depth 14ft)	PUG1544	11	47.1882° N	122.9454° W	Harmonic
+Totten Inlet Entrance (Depth 41ft)	PUG1544	7	47.1882° N	122.9454° W	Harmonic
+Totten Inlet Entrance (Depth 67ft)	PUG1544	3	47.1882° N	122.9454° W	Harmonic
+Libby Point, Hammersley Inlet (Depth 5ft)	PUG1545	10	47.1989° N	122.9890° W	Harmonic
+Libby Point, Hammersley Inlet (Depth 19ft)	PUG1545	1	47.1989° N	122.9890° W	Harmonic
+Hammersley Inlet, west of Skookum Point (Depth 15ft)	PCT1896	1	47.2070° N	123.0395° W	Subordinate
+Pickering Passage, West of Squaxin Island (Depth 9ft)	PUG1546	14	47.2193° N	122.9345° W	Harmonic
+Pickering Passage, West of Squaxin Island (Depth 29ft)	PUG1546	8	47.2193° N	122.9345° W	Harmonic
+Pickering Passage, West of Squaxin Island (Depth 52ft)	PUG1546	1	47.2193° N	122.9345° W	Harmonic
+Pickering Passage, off Graham Point (Depth 10ft)	PUG1547	16	47.2473° N	122.9259° W	Harmonic
+Pickering Passage, off Graham Point (Depth 30ft)	PUG1547	10	47.2473° N	122.9259° W	Harmonic
+Pickering Passage, off Graham Point (Depth 59ft)	PUG1547	1	47.2473° N	122.9259° W	Harmonic
+Pickering Passage, North end (Depth 19ft)	PUG1548	10	47.3057° N	122.8509° W	Harmonic
+Pickering Passage, North end (Depth 45ft)	PUG1548	6	47.3057° N	122.8509° W	Harmonic
+Pickering Passage, North end (Depth 78ft)	PUG1548	1	47.3057° N	122.8509° W	Harmonic
+Case Inlet, 1 mile SE of McMicken Island	PCT1916	1	47.2383° N	122.8437° W	Weak and Variable
+POSSESSION SOUND-SKAGIT BAY					
+Possession Sound Entrance (Depth 59ft)	PUG1605	40	47.8993° N	122.3601° W	Harmonic
+Possession Sound Entrance (Depth 190ft)	PUG1605	30	47.8993° N	122.3601° W	Harmonic
+Possession Sound Entrance (Depth 322ft)	PUG1605	20	47.8993° N	122.3601° W	Harmonic
+West of Mukilteo (Depth 62ft)	PUG1609	36	47.9490° N	122.3285° W	Harmonic
+West of Mukilteo (Depth 140ft)	PUG1609	30	47.9490° N	122.3285° W	Harmonic
+West of Mukilteo (Depth 272ft)	PUG1609	20	47.9490° N	122.3285° W	Harmonic
+Clinton Ferry Terminal (Depth 21ft)	PUG1612	10	47.9690° N	122.3451° W	Harmonic
+Clinton Ferry Terminal (Depth 47ft)	PUG1612	6	47.9690° N	122.3451° W	Harmonic
+Clinton Ferry Terminal (Depth 80ft)	PUG1612	1	47.9690° N	122.3451° W	Harmonic
+Camano Head-Sandy Point, passage (Depth 32ft)	PUG1618	42	48.0478° N	122.3890° W	Harmonic
+Camano Head-Sandy Point, passage (Depth 78ft)	PUG1618	35	48.0478° N	122.3890° W	Harmonic
+Camano Head-Sandy Point, passage (Depth 209ft)	PUG1618	15	48.0478° N	122.3890° W	Harmonic
+Everett (Depth 25ft)	PUG1613	29	47.9762° N	122.2382° W	Weak and Variable
+Skagit Bay, 1 mi. south of Goat Island (Depth 12ft)	PUG1627	17	48.3448° N	122.5451° W	Harmonic
+Skagit Bay, 1 mi. south of Goat Island (Depth 32ft)	PUG1627	11	48.3448° N	122.5451° W	Harmonic
+Skagit Bay, 1 mi. south of Goat Island (Depth 52ft)	PUG1627	5	48.3448° N	122.5451° W	Harmonic
+Port Susan	PCT1926	1	48.1000° N	122.3667° W	Weak and Variable
+West of Camano Island (Depth 23ft)	PUG1622	27	48.1697° N	122.5532° W	Harmonic
+West of Camano Island (Depth 69ft)	PUG1622	20	48.1697° N	122.5532° W	Harmonic
+West of Camano Island (Depth 180ft)	PUG1622	3	48.1697° N	122.5532° W	Harmonic
+Skagit Bay, 1 mi. north of Rocky Point (Depth 12ft)	PUG1626	20	48.2671° N	122.5296° W	Harmonic
+Skagit Bay, 1 mi. north of Rocky Point (Depth 28ft)	PUG1626	15	48.2671° N	122.5296° W	Harmonic
+Skagit Bay, 1 mi. north of Rocky Point (Depth 54ft)	PUG1626	7	48.2671° N	122.5296° W	Harmonic
+Skagit Bay channel, SW of Hope Island (Depth 10ft)	PUG1628	13	48.3978° N	122.5795° W	Harmonic
+Skagit Bay channel, SW of Hope Island (Depth 26ft)	PUG1628	8	48.3978° N	122.5795° W	Harmonic
+Skagit Bay channel, SW of Hope Island (Depth 39ft)	PUG1628	4	48.3978° N	122.5795° W	Harmonic
+ROSARIO STRAIT					
+Yokeko Point, Deception Pass (Depth 7ft)	PUG1629	9	48.4127° N	122.6132° W	Harmonic
+Yokeko Point, Deception Pass (Depth 14ft)	PUG1629	7	48.4127° N	122.6132° W	Harmonic
+Yokeko Point, Deception Pass (Depth 27ft)	PUG1629	3	48.4127° N	122.6132° W	Harmonic
+Deception Pass (Narrows) (Depth 18ft)	PUG1701	33	48.4062° N	122.6431° W	Harmonic
+Deception Pass (Narrows) (Depth 47ft)	PUG1701	24	48.4062° N	122.6431° W	Harmonic
+Deception Pass (Narrows) (Depth 67ft)	PUG1701	18	48.4062° N	122.6431° W	Harmonic
+Iceberg Point, 2.1 miles SSW of	PCT1966	1	48.3833° N	122.9167° W	Subordinate
+Colville Island, 1 mile SSE of	PCT1971	1	48.4000° N	122.8167° W	Subordinate
+Point Colville, 1.4 nm east of (Depth 29ft)	PUG1728	26	48.4181° N	122.7812° W	Harmonic
+Point Colville, 1.4 nm east of (Depth 56ft)	PUG1728	22	48.4181° N	122.7812° W	Harmonic
+Point Colville, 1.4 nm east of (Depth 134ft)	PUG1728	10	48.4181° N	122.7812° W	Harmonic
+Point Colville, 3.0 nm east of (Lawson Reef, 1 nm (Depth 34ft)	PUG1727	30	48.4125° N	122.7403° W	Harmonic
+Point Colville, 3.0 nm east of (Lawson Reef, 1 nm (Depth 47ft)	PUG1727	28	48.4125° N	122.7403° W	Harmonic
+Point Colville, 3.0 nm east of (Lawson Reef, 1 nm (Depth 165ft)	PUG1727	10	48.4125° N	122.7403° W	Harmonic
+Rosario Strait (Depth 47ft)	PUG1702	16	48.4581° N	122.7501° W	Harmonic
+Rosario Strait (Depth 76ft)	PUG1702	13	48.4581° N	122.7501° W	Harmonic
+Rosario Strait (Depth 116ft)	PUG1702	9	48.4581° N	122.7501° W	Harmonic
+Lopez Pass (Depth 15ft)	PUG1730	17	48.4797° N	122.8189° W	Harmonic
+Lopez Pass (Depth 35ft)	PUG1730	11	48.4797° N	122.8189° W	Harmonic
+Lopez Pass (Depth 58ft)	PUG1730	4	48.4797° N	122.8189° W	Harmonic
+Burrows Bay, 0.5 mile east of Allan I	PCT2006	1	48.4628° N	122.6828° W	Subordinate
+Belle Rock Light, east of (Depth 23ft)	PUG1729	21	48.4968° N	122.7308° W	Harmonic
+Belle Rock Light, east of (Depth 62ft)	PUG1729	15	48.4968° N	122.7308° W	Harmonic
+Belle Rock Light, east of (Depth 115ft)	PUG1729	7	48.4968° N	122.7308° W	Harmonic
+Green Point, 0.8 mile northwest of	PCT2026	1	48.5047° N	122.7062° W	Subordinate
+Fauntleroy Point Light, east of (Depth 21ft)	PUG1731	18	48.5216° N	122.7707° W	Harmonic
+Fauntleroy Point Light, east of (Depth 54ft)	PUG1731	13	48.5216° N	122.7707° W	Harmonic
+Fauntleroy Point Light, east of (Depth 93ft)	PUG1731	7	48.5216° N	122.7707° W	Harmonic
+Thatcher Pass (Depth 28ft)	PUG1733	22	48.5274° N	122.8040° W	Harmonic
+Thatcher Pass (Depth 61ft)	PUG1733	17	48.5274° N	122.8040° W	Harmonic
+Thatcher Pass (Depth 146ft)	PUG1733	4	48.5274° N	122.8040° W	Harmonic
+Frost-Willow Island, between	PCT2046	1	48.5392° N	122.8308° W	Subordinate
+Bellingham Channel South (Depth 19ft)	PUG1739	31	48.5396° N	122.6834° W	Harmonic
+Bellingham Channel South (Depth 33ft)	PUG1739	27	48.5396° N	122.6834° W	Harmonic
+Bellingham Channel South (Depth 118ft)	PUG1739	1	48.5396° N	122.6834° W	Harmonic
+Strawberry Island, west of (Depth 33ft)	PUG1732	25	48.5610° N	122.7543° W	Harmonic
+Strawberry Island, west of (Depth 46ft)	PUG1732	23	48.5610° N	122.7543° W	Harmonic
+Strawberry Island, west of (Depth 164ft)	PUG1732	5	48.5610° N	122.7543° W	Harmonic
+Peavine Pass, west entrance (Depth 9ft)	PUG1704	13	48.5871° N	122.8193° W	Harmonic
+Peavine Pass, west entrance (Depth 19ft)	PUG1704	10	48.5871° N	122.8193° W	Harmonic
+Peavine Pass, west entrance (Depth 48ft)	PUG1704	1	48.5871° N	122.8193° W	Harmonic
+Obstruction Pass, north of Obstruction Island (Depth 8ft)	PUG1705	15	48.6033° N	122.8127° W	Harmonic
+Obstruction Pass, north of Obstruction Island (Depth 15ft)	PUG1705	13	48.6033° N	122.8127° W	Harmonic
+Obstruction Pass, north of Obstruction Island (Depth 54ft)	PUG1705	1	48.6033° N	122.8127° W	Harmonic
+Peapod Rocks Light, 1.2 nm south of (Depth 39ft)	PUG1706	11	48.6224° N	122.7476° W	Harmonic
+Peapod Rocks Light, 1.2 nm south of (Depth 78ft)	PUG1706	8	48.6224° N	122.7476° W	Harmonic
+Peapod Rocks Light, 1.2 nm south of (Depth 170ft)	PUG1706	1	48.6224° N	122.7476° W	Harmonic
+Barnes Island, 0.8 mile southwest of	PCT2071	1	48.6858° N	122.7888° W	Subordinate
+Raccoon Point, 0.6 mile NNE of	PCT2076	1	48.7063° N	122.8292° W	Subordinate
+Matia Island, 0.8 mile west of	PCT2086	1	48.7488° N	122.8658° W	Subordinate
+Guemes Channel, West Entrance (Depth 11ft)	PUG1734	14	48.5212° N	122.6522° W	Harmonic
+Guemes Channel, West Entrance (Depth 24ft)	PUG1734	10	48.5212° N	122.6522° W	Harmonic
+Guemes Channel, West Entrance (Depth 53ft)	PUG1734	1	48.5212° N	122.6522° W	Harmonic
+Guemes Channel, East Entrance (Depth 9ft)	PUG1735	14	48.5277° N	122.6060° W	Harmonic
+Guemes Channel, East Entrance (Depth 25ft)	PUG1735	9	48.5277° N	122.6060° W	Harmonic
+Guemes Channel, East Entrance (Depth 52ft)	PUG1735	1	48.5277° N	122.6060° W	Harmonic
+Saddle Bag Island Passage (Depth 22ft)	PUG1736	34	48.5359° N	122.5639° W	Harmonic
+Saddle Bag Island Passage (Depth 48ft)	PUG1736	30	48.5359° N	122.5639° W	Harmonic
+Saddle Bag Island Passage (Depth 87ft)	PUG1736	24	48.5359° N	122.5639° W	Harmonic
+Huckleberry Island, 0.5 mile north of	PCT2106	1	48.5458° N	122.5663° W	Subordinate
+Eliza Island, 0.5 mile southeast of	PCT2116	1	48.6500° N	122.5667° W	Weak and Variable
+Bellingham Channel, off Cypress Head Light (Depth 31ft)	PUG1740	19	48.5585° N	122.6618° W	Harmonic
+Bellingham Channel, off Cypress Head Light (Depth 50ft)	PUG1740	17	48.5585° N	122.6618° W	Harmonic
+Bellingham Channel, off Cypress Head Light (Depth 119ft)	PUG1740	10	48.5585° N	122.6618° W	Harmonic
+Bellingham Channel North Entrance (Depth 27ft)	PUG1741	27	48.5928° N	122.6577° W	Harmonic
+Bellingham Channel North Entrance (Depth 47ft)	PUG1741	24	48.5928° N	122.6577° W	Harmonic
+Bellingham Channel North Entrance (Depth 171ft)	PUG1741	5	48.5928° N	122.6577° W	Harmonic
+Towhead Island, 0.4 mile east of	PCT2126	1	48.6122° N	122.7022° W	Subordinate
+Sinclair Island, 1.0 nm NE of (Depth 26ft)	PUG1707	28	48.6442° N	122.6587° W	Harmonic
+Sinclair Island, 1.0 nm NE of (Depth 99ft)	PUG1707	17	48.6442° N	122.6587° W	Harmonic
+Sinclair Island, 1.0 nm NE of (Depth 171ft)	PUG1707	6	48.6442° N	122.6587° W	Harmonic
+Lawrence Point, Orcas Island, 1.3 nm NE of (Depth 37ft)	PUG1708	16	48.6794° N	122.7147° W	Harmonic
+Lawrence Point, Orcas Island, 1.3 nm NE of (Depth 63ft)	PUG1708	14	48.6794° N	122.7147° W	Harmonic
+Lawrence Point, Orcas Island, 1.3 nm NE of (Depth 115ft)	PUG1708	10	48.6794° N	122.7147° W	Harmonic
+Hale Passage, east of Lummi Point (Depth 8ft)	PUG1710	14	48.7349° N	122.6802° W	Harmonic
+Hale Passage, east of Lummi Point (Depth 27ft)	PUG1710	8	48.7349° N	122.6802° W	Harmonic
+Hale Passage, east of Lummi Point (Depth 44ft)	PUG1710	3	48.7349° N	122.6802° W	Harmonic
+Clark Island, 1.6 nm north of (Depth 29ft)	PUG1709	33	48.7313° N	122.7734° W	Harmonic
+Clark Island, 1.6 nm north of (Depth 48ft)	PUG1709	30	48.7313° N	122.7734° W	Harmonic
+Clark Island, 1.6 nm north of (Depth 180ft)	PUG1709	10	48.7313° N	122.7734° W	Harmonic
+Matia Island, west of (Depth 47ft)	PUG1711	26	48.7749° N	122.8410° W	Harmonic
+Matia Island, west of (Depth 87ft)	PUG1711	23	48.7749° N	122.8410° W	Harmonic
+Matia Island, west of (Depth 336ft)	PUG1711	4	48.7749° N	122.8410° W	Harmonic
+Parker Reef Light, north of (Depth 31ft)	PUG1712	25	48.7326° N	122.8864° W	Harmonic
+Parker Reef Light, north of (Depth 45ft)	PUG1712	23	48.7326° N	122.8864° W	Harmonic
+Parker Reef Light, north of (Depth 130ft)	PUG1712	10	48.7326° N	122.8864° W	Harmonic
+Patos Island, south of Toe Point (Depth 14ft)	PUG1713	25	48.7721° N	122.9337° W	Harmonic
+Patos Island, south of Toe Point (Depth 30ft)	PUG1713	20	48.7721° N	122.9337° W	Harmonic
+Patos Island, south of Toe Point (Depth 63ft)	PUG1713	10	48.7721° N	122.9337° W	Harmonic
+Patos Island Light, 1.4 nm west of (Depth 46ft)	PUG1714	27	48.7731° N	123.0058° W	Harmonic
+Patos Island Light, 1.4 nm west of (Depth 99ft)	PUG1714	23	48.7731° N	123.0058° W	Harmonic
+Patos Island Light, 1.4 nm west of (Depth 191ft)	PUG1714	16	48.7731° N	123.0058° W	Harmonic
+Alden Point, Patos Island, 2 miles S of	PCT2286	1	48.7578° N	122.9803° W	Subordinate
+Puffin Island Light, 4.8 miles north of	PCT2166	1	48.8222° N	122.8083° W	Subordinate
+Cherry Point, 1.8 nm southeast of (Depth 8ft)	PUG1725	30	48.8338° N	122.7279° W	Harmonic
+Cherry Point, 1.8 nm southeast of (Depth 24ft)	PUG1725	20	48.8338° N	122.7279° W	Harmonic
+Cherry Point, 1.8 nm southeast of (Depth 41ft)	PUG1725	10	48.8338° N	122.7279° W	Harmonic
+Cherry Point (Depth 47ft)	cp0101	20	48.8627° N	122.7610° W	Harmonic
+SAN JUAN CHANNEL					
+Cattle Point, 2.8 miles SSW of	PCT1416	1	48.4000° N	123.0000° W	Subordinate
+Cattle Point, 4.6 nm SW of (Depth 55ft)	PUG1743	22	48.3840° N	123.0157° W	Harmonic
+Cattle Point, 4.6 nm SW of (Depth 105ft)	PUG1743	19	48.3840° N	123.0157° W	Harmonic
+Cattle Point, 4.6 nm SW of (Depth 187ft)	PUG1743	14	48.3840° N	123.0157° W	Harmonic
+Cattle Point, 1.2 nm SE of (Depth 39ft)	PUG1742	21	48.4344° N	122.9466° W	Harmonic
+Cattle Point, 1.2 nm SE of (Depth 78ft)	PUG1742	18	48.4344° N	122.9466° W	Harmonic
+Cattle Point, 1.2 nm SE of (Depth 117ft)	PUG1742	15	48.4344° N	122.9466° W	Harmonic
+San Juan Channel, south entrance (Depth 75ft)	PUG1703	17	48.4610° N	122.9520° W	Harmonic
+San Juan Channel, south entrance (Depth 92ft)	PUG1703	16	48.4610° N	122.9520° W	Harmonic
+San Juan Channel, south entrance (Depth 114ft)	PUG1703	13	48.4610° N	122.9520° W	Harmonic
+Kings Point, Lopez Island, 1 mile NNW of (Depth 15ft)	PCT2191	1	48.4833° N	122.9558° W	Subordinate
+Pear Point, east of (Depth 32ft)	PUG1746	10	48.5114° N	122.9529° W	Harmonic
+Pear Point, east of (Depth 59ft)	PUG1746	8	48.5114° N	122.9529° W	Harmonic
+Pear Point, east of (Depth 112ft)	PUG1746	4	48.5114° N	122.9529° W	Harmonic
+Point George, west of (Depth 53ft)	PUG1745	24	48.5567° N	122.9985° W	Harmonic
+Point George, west of (Depth 119ft)	PUG1745	20	48.5567° N	122.9985° W	Harmonic
+Point George, west of (Depth 283ft)	PUG1745	10	48.5567° N	122.9985° W	Harmonic
+Upright Channel narrows (Depth 24ft)	PUG1723	18	48.5538° N	122.9226° W	Harmonic
+Upright Channel narrows (Depth 57ft)	PUG1723	13	48.5538° N	122.9226° W	Harmonic
+Upright Channel narrows (Depth 97ft)	PUG1723	7	48.5538° N	122.9226° W	Harmonic
+Wasp Passage narrows (Depth 11ft)	PUG1721	17	48.5925° N	122.9896° W	Harmonic
+Wasp Passage narrows (Depth 31ft)	PUG1721	11	48.5925° N	122.9896° W	Harmonic
+Wasp Passage narrows (Depth 60ft)	PUG1721	2	48.5925° N	122.9896° W	Harmonic
+Spring Passage, south entrance (Depth 13ft)	PUG1720	26	48.6115° N	123.0341° W	Harmonic
+Spring Passage, south entrance (Depth 26ft)	PUG1720	22	48.6115° N	123.0341° W	Harmonic
+Spring Passage, south entrance (Depth 62ft)	PUG1720	11	48.6115° N	123.0341° W	Harmonic
+Spieden Channel, north of Limestone Point (Depth 47ft)	PUG1719	19	48.6278° N	123.1116° W	Harmonic
+Spieden Channel, north of Limestone Point (Depth 60ft)	PUG1719	18	48.6278° N	123.1116° W	Harmonic
+Spieden Channel, north of Limestone Point (Depth 205ft)	PUG1719	7	48.6278° N	123.1116° W	Harmonic
+President Channel, East of Point Disney (Depth 69ft)	PUG1715	38	48.6733° N	123.0060° W	Harmonic
+President Channel, East of Point Disney (Depth 108ft)	PUG1715	35	48.6733° N	123.0060° W	Harmonic
+Harney Channel, north of Point Hudson (Depth 13ft)	PUG1722	27	48.5897° N	122.9217° W	Harmonic
+Harney Channel, north of Point Hudson (Depth 36ft)	PUG1722	20	48.5897° N	122.9217° W	Harmonic
+Harney Channel, north of Point Hudson (Depth 82ft)	PUG1722	6	48.5897° N	122.9217° W	Harmonic
+East Sound entrance	PCT2236	1	48.5870° N	122.8570° W	Weak and Variable
+East Sound, 0.2 mile SW of Rosario Point	PCT2241	1	48.6442° N	122.8813° W	Weak and Variable
+HARO STRAIT AND BOUNDARY PASS					
+Discovery Island, 3.0 nm NE of (Depth 41ft)	PUG1744	22	48.4521° N	123.1554° W	Harmonic
+Discovery Island, 3.0 nm NE of (Depth 68ft)	PUG1744	20	48.4521° N	123.1554° W	Harmonic
+Discovery Island, 3.0 nm NE of (Depth 160ft)	PUG1744	13	48.4521° N	123.1554° W	Harmonic
+South Haro Strait, south of Lime Kiln Light (Depth 107ft)	PUG1724	31	48.4980° N	123.1599° W	Harmonic
+South Haro Strait, south of Lime Kiln Light (Depth 159ft)	PUG1724	29	48.4980° N	123.1599° W	Harmonic
+South Haro Strait, south of Lime Kiln Light (Depth 212ft)	PUG1724	27	48.4980° N	123.1599° W	Harmonic
+Haro Strait, 1.2 nm west of Kellett Bluff (Depth 66ft)	PUG1718	36	48.5887° N	123.2258° W	Harmonic
+Haro Strait, 1.2 nm west of Kellett Bluff (Depth 106ft)	PUG1718	34	48.5887° N	123.2258° W	Harmonic
+Haro Strait, 1.2 nm west of Kellett Bluff (Depth 204ft)	PUG1718	29	48.5887° N	123.2258° W	Harmonic
+Turn Point, Boundary Pass (Depth 116ft)	PUG1717	35	48.6912° N	123.2450° W	Harmonic
+Turn Point, Boundary Pass (Depth 168ft)	PUG1717	31	48.6912° N	123.2450° W	Harmonic
+Turn Point, Boundary Pass (Depth 208ft)	PUG1717	28	48.6912° N	123.2450° W	Harmonic
+Johns Island, 0.8 mile north of	PCT2266	1	48.6833° N	123.1500° W	Subordinate
+Waldron Island, 1.7 nm west of (Depth 27ft)	PUG1716	23	48.7042° N	123.1048° W	Subordinate
+Waldron Island, 1.7 nm west of (Depth 93ft)	PUG1716	13	48.7042° N	123.1048° W	Subordinate
+Waldron Island, 1.7 nm west of (Depth 159ft)	PUG1716	3	48.7042° N	123.1048° W	Subordinate
+Skipjack Island, 1.5 miles northwest of (Depth 15ft)	PCT2276	1	48.7495° N	123.0608° W	Subordinate
+Point Hammond, 1.1 miles northwest of (Depth 15ft)	PCT2281	1	48.7320° N	123.0253° W	Subordinate
+GEORGIA STRAIT					
+Drayton Harbor Entrance	PCT2301	1	48.9908° N	122.7678° W	Subordinate
+Strait of Georgia, 4.5 nm SW of Point Roberts (Depth 31ft)	PUG1726	35	48.9389° N	123.1651° W	Harmonic
+Strait of Georgia, 4.5 nm SW of Point Roberts (Depth 70ft)	PUG1726	29	48.9389° N	123.1651° W	Harmonic
+Strait of Georgia, 4.5 nm SW of Point Roberts (Depth 189ft)	PUG1726	11	48.9389° N	123.1651° W	Harmonic
